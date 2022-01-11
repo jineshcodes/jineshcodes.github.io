@@ -11,7 +11,7 @@ title: Jinesh Codes
         <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
         {%- if post.image -%}
         <div class="featuredImage">
-          <img src="{{ '/assets/img/' | append: page.image }}" alt="" />
+          <img src="{{ '/assets/img/' | append: post.image }}" alt="" />
         </div>
         {%- endif -%}
         <h3><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></h3>
