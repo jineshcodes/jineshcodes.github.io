@@ -9,6 +9,11 @@ title: Jinesh Codes
     {%- for post in paginator.posts -%}
       <article>
         <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
+        {%- if post.image -%}
+        <div class="featuredImage">
+          <img src="{{ '/assets/img/' | append: page.image }}" alt="" />
+        </div>
+        {%- endif -%}
         <h3><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></h3>
         <p>{%- if post.description -%}{{ post.description }}{%- else -%}{{ post.excerpt | strip_html }}{%- endif -%}</p>
       </article>
