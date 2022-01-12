@@ -860,7 +860,7 @@ POST STYLING
   text-align: center;
   color: gray;
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
-  font-weight: 300; }
+  font-weight: 250; }
 
 .post figure {
   margin: 3rem 0; }
@@ -1006,7 +1006,7 @@ POST LIST STYLING
   .posts li .date {
     color: gray;
     font-family: "Open Sans", Helvetica, Arial, sans-serif;
-    font-weight: 300;
+    font-weight: 250;
     font-size: .8em; }
   .posts li h3 {
     margin: 0 0 .5em; }
