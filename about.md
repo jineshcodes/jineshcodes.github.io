@@ -16,6 +16,7 @@ title: About Jinesh Shah
 
 <p>Also, I am one of the Creators behind Caption AI. Now, you ask what is caption AI? You can find it out here.  </p>
 <p> Disclaimer: All the statements and views expressed on this website are my own and donot represent my employer's views in any form.<p>
+<div>
 	<!-- <h2>Features</h2>
 	<ul>
 		<li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
