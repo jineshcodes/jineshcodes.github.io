@@ -26,7 +26,7 @@ If you are not sure on which LPs should you consider prepping for, feel free to 
 Here is a sample question where you can demonstrate your past experience applying customer obsession:
 	Discuss a time when you went above and beyond for a customer?
 
-There are multiple ways to answer the above question, I recommend Following the STAR method while answering any Leadership principle related questions. STAR stands for "Situation - Task - Action - Results" read more on [STAR method][star]{:target="_blank"}. 
+There are multiple ways to answer the above question, I recommend Following the STAR method while answering any Leadership principle related questions. STAR stands for "Situation - Task - Action - Results" read more on [STAR method][star]. 
 
 There is a debate around should we prepare for Behavioural round or not. The argument that is presented against preparing examples beforehand is that you could sound a little too rehearsed in the interview. 
 
