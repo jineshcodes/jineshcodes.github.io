@@ -5,12 +5,12 @@ title: About Jinesh Shah
 
 <div class="post">
 	<h1 class="pageTitle">About Jinesh Shah</h1>
-	<img src="{{ '/assets/img/touring.jpg' }}" alt="">
+	<img src="{{ '/assets/img/Jinesh_Rainer.jpeg' }}" alt="">
 	<p class="intro">Hi! I am Jinesh and I am a programmer.</p>
 	<p>I currently work as a software engineer III at Google, before joining google was an SDE II at Microsoft. Feel free to read more about my software journey here. </p>
-<p>I am passionate about computer science and tech in general. I love to keep learning new topics and keep myself sharp with more than a few cs tricks up my sleeve. To do this I am pursuing OMSCS offered by Georgia Tech. I keep getting multiple questions about OMSCS so, here you go! </p>
+<p>I am passionate about computer science and tech in general. I love to keep learning and to do this I am pursuing OMSCS offered by Georgia Tech. I keep getting multiple questions about OMSCS so, here you go! </p>
 
-<p>I plan to make this blog a place where I can share my learnings and experiences as I navigate this world of Computer science and engineering. You should follow this blog if you think you would be interested in reading articles ranging from CS theory to my day job learnings and my experiments.</p>
+<p>This blog is the place where I document all my learnings and experiences as I navigate throught the world of Computer science and engineering. You should follow this blog if you think you would be interested in reading articles ranging from CS theory and experinments to learnings from my day job.</p>
 
 <p>I recently cracked multiple big tech company interviews(including most of FAANG). I love to document the process that made me successful in doing this and you can find articles related to how I prepared, what did the process look like and the interview experiences here.</p>
 
