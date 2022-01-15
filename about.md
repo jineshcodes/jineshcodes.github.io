@@ -12,7 +12,7 @@ title: About Jinesh Shah
 
 <p>This blog is the place where I document all my learnings and experiences as I navigate throught the world of Computer science and engineering. You should follow this blog if you think you would be interested in reading articles ranging from CS theory and experinments to learnings from my day job.</p>
 
-<p>I recently cracked multiple big tech company interviews(including most of FAANG). I love to document the process that made me successful in doing this and you can find articles related to how I prepared, what did the process look like and the interview experiences here.</p>
+<p>I recently cracked multiple big tech company interviews. I love to document the process that made me successful in achieving this. You can find articles related to how I prepared, what did the interview process looked like and the interview experiences here.</p>
 
 <p>Also, I am one of the Creators behind Caption AI. Now, you ask what is caption AI? You can find it out here.  </p>
 <p> Disclaimer: All the statements and views expressed on this website are my own and donot represent my employer's views in any form.<p>
