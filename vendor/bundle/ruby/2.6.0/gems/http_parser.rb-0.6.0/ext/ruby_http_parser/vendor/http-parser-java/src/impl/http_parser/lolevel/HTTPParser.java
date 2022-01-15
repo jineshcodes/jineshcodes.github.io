@@ -443,7 +443,7 @@ return error(settings, "Not P", data);
           }
           state = State.res_HTTP;
           break;
-        case res_HTTP:
+        case res_https:
           if (strict && SLASH != ch) {
 return error(settings, "Not '/'", data);
           }
@@ -753,7 +753,7 @@ return error(settings, "not LF", data);
           state = State.req_http_HTTP;
           break;
 
-        case req_http_HTTP:
+        case req_http_https:
           if (strict && SLASH != ch) {
             return error(settings, "unexpected char", data);
           }

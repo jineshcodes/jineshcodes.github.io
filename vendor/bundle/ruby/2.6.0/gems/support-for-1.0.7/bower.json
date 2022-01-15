@@ -3,7 +3,7 @@
   "description": "Allows Sass authors to conditionally add support for specific browser versions.",
   "main": "sass/_support-for.scss",
   "authors": [
-    "John Albin Wilkins <virtually.johnalbin@gmail.com> (http://john.albin.net/)"
+    "John Albin Wilkins <virtually.johnalbin@gmail.com> (https://john.albin.net/)"
   ],
   "license": "GPL-2.0",
   "keywords": [

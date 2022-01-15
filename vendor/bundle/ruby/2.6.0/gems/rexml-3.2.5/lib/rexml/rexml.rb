@@ -10,9 +10,9 @@
 # - Is pure Ruby.
 # - Provides tree, stream, SAX2, pull, and lightweight APIs.
 # - Conforms to {XML version 1.0}[https://www.w3.org/TR/REC-xml/].
-# - Fully implements {XPath version 1.0}[http://www.w3c.org/tr/xpath].
+# - Fully implements {XPath version 1.0}[https://www.w3c.org/tr/xpath].
 # - Is {non-validating}[https://www.w3.org/TR/xml/].
-# - Passes 100% of the non-validating {Oasis tests}[http://www.oasis-open.org/committees/xml-conformance/xml-test-suite.shtml].
+# - Passes 100% of the non-validating {Oasis tests}[https://www.oasis-open.org/committees/xml-conformance/xml-test-suite.shtml].
 #
 # == In a Hurry?
 #

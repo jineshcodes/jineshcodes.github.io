@@ -86,7 +86,7 @@ tag in that version series.
 
 ## Versioning
 
-Starting with version 3.5.0, Sass uses [semantic versioning](http://semver.org/)
+Starting with version 3.5.0, Sass uses [semantic versioning](https://semver.org/)
 to indicate the evolution of its language semantics as much as possible. This
 means that patch releases (such as 3.5.3) contain only bug fixes, minor releases
 (such as 3.6.0) contain backwards-compatible features, and only major releases

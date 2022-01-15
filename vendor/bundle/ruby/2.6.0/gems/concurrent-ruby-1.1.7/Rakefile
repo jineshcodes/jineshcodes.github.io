@@ -133,7 +133,7 @@ begin
     task :update_readme do
       Dir.chdir __dir__ do
         content = File.read(File.join('README.md')).
-            gsub(/\[([\w ]+)\]\(http:\/\/ruby-concurrency\.github\.io\/concurrent-ruby\/master\/.*\)/) do |_|
+            gsub(/\[([\w ]+)\]\(https:\/\/ruby-concurrency\.github\.io\/concurrent-ruby\/master\/.*\)/) do |_|
           case $1
           when 'LockFreeLinkedSet'
             "{Concurrent::Edge::#{$1} #{$1}}"

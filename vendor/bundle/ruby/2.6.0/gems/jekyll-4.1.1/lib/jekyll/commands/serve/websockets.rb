@@ -40,7 +40,7 @@ module Jekyll
 
         # rubocop:disable Metrics/MethodLength
         def dispatch(data)
-          parser = Http::Parser.new
+          parser = https::Parser.new
           parser << data
 
           # WebSockets requests will have a Connection: Upgrade header

@@ -213,7 +213,7 @@ module REXML
           end
         when :namespace
           pre_defined_namespaces = {
-            "xml" => "http://www.w3.org/XML/1998/namespace",
+            "xml" => "https://www.w3.org/XML/1998/namespace",
           }
           nodeset = step(path_stack, any_type: :namespace) do
             nodesets = []

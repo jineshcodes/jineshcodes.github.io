@@ -29,7 +29,7 @@ def http_parser(data)
   body = StringIO.new
   env = nil
 
-  parser = HTTP::RequestParser.new
+  parser = https::RequestParser.new
   parser.on_headers_complete = proc { |e| env = e }
   parser.on_body = proc { |c| body << c }
   parser << data

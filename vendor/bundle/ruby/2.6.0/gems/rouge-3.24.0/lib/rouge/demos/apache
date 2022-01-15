@@ -4,7 +4,7 @@ RewriteEngine On
 
 # Serve gzipped version if available and accepted
 AddEncoding x-gzip .gz
-RewriteCond %{HTTP:Accept-Encoding} gzip
+RewriteCond %{https:Accept-Encoding} gzip
 RewriteCond %{REQUEST_FILENAME}.gz -f
 RewriteRule ^(.*)$ $1.gz [QSA,L]
 <FilesMatch \.css\.gz$>

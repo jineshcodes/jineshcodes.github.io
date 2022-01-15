@@ -7,11 +7,11 @@ namespace :profile do
     require "addressable/template"
 
     start_at = Time.now.to_f
-    template = Addressable::Template.new("http://example.com/{?one,two,three}")
+    template = Addressable::Template.new("https://example.com/{?one,two,three}")
     report = MemoryProfiler.report do
       30_000.times do
         template.match(
-          "http://example.com/?one=one&two=floo&three=me"
+          "https://example.com/?one=one&two=floo&three=me"
         )
       end
     end
@@ -47,7 +47,7 @@ namespace :profile do
     report = MemoryProfiler.report do
       30_000.times do
         Addressable::URI.parse(
-          "http://google.com/stuff/../?with_lots=of&params=asdff#!stuff"
+          "https://google.com/stuff/../?with_lots=of&params=asdff#!stuff"
         ).normalize
       end
     end

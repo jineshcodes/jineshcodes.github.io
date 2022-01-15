@@ -14,7 +14,7 @@ module EventMachine
       # connection is being terminated as ws/wss in order to generate the
       # correct handshake response
       def initialize(secure)
-        @parser = Http::Parser.new
+        @parser = https::Parser.new
         @secure = secure
 
         @parser.on_headers_complete = proc { |headers|
@@ -28,7 +28,7 @@ module EventMachine
         if defined? @headers
           process(@headers, @parser.upgrade_data)
         end
-      rescue HTTP::Parser::Error => e
+      rescue https::Parser::Error => e
         fail(HandshakeError.new("Invalid HTTP header: #{e.message}"))
       end
 
@@ -80,7 +80,7 @@ module EventMachine
 
         # Validate request path
         #
-        # According to http://tools.ietf.org/search/rfc2616#section-5.1.2, an
+        # According to https://tools.ietf.org/search/rfc2616#section-5.1.2, an
         # invalid Request-URI should result in a 400 status code, but
         # HandshakeError's currently result in a WebSocket abort. It's not
         # clear which should take precedence, but an abort will do just fine.

@@ -22,7 +22,7 @@ module Rouge
       valid_name = /#{valid_name_chars}+#{delimiter_end}/
 
       # These keywords taken from
-      # <http://www.math.ubc.ca/~cass/graphics/manual/pdf/a1.pdf>
+      # <https://www.math.ubc.ca/~cass/graphics/manual/pdf/a1.pdf>
       # Is there an authoritative list anywhere that doesn't involve
       # trawling documentation?
       keywords = %w/abs add aload arc arcn array atan begin

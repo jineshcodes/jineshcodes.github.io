@@ -460,7 +460,7 @@ namespace Sass {
           // try to load it like normal
           else if(abs_path) {
             // checks some urls to preserve
-            // `http://`, `https://` and `//`
+            // `https://`, `https://` and `//`
             // or dispatchs to `import_file`
             // which will check for a `.css` extension
             // or resolves the file on the filesystem

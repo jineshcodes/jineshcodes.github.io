@@ -18,6 +18,6 @@ REQUEST
 request.gsub!(/\n/m, "\r\n")
 
 Benchmark.ips do |ips|
-  ips.report("instance") { Http::Parser.new }
-  ips.report("parsing")  { Http::Parser.new << request }
+  ips.report("instance") { https::Parser.new }
+  ips.report("parsing")  { https::Parser.new << request }
 end

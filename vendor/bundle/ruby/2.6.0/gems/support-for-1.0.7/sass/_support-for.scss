@@ -27,7 +27,7 @@ $support-for-current-browser-version: (
 //
 // If configured, this is a wrapper function that uses Compass'
 // support-legacy-browser().
-// @see http://compass-style.org/reference/compass/support/#function-support-legacy-browser
+// @see https://compass-style.org/reference/compass/support/#function-support-legacy-browser
 //
 @function support-for($browser, $version) {
   // Ensure $version is an integer (or null).

@@ -11,7 +11,7 @@ module Rouge
 
       def self.data_step_statements
         # from Data step statements - SAS 9.4 Statements reference
-        # http://support.sas.com/documentation/cdl/en/lestmtsref/68024/PDF/default/lestmtsref.pdf
+        # https://support.sas.com/documentation/cdl/en/lestmtsref/68024/PDF/default/lestmtsref.pdf
         @data_step_statements ||= Set.new %w(
           ABORT ARRAY ATTRIB BY CALL CARDS CARDS4 CATNAME CHECKPOINT 
           EXECUTE_ALWAYS CONTINUE DATA DATALINES DATALINES4 DELETE DESCRIBE
@@ -28,7 +28,7 @@ module Rouge
 
       def self.sas_functions
         # from SAS 9.4 Functions and CALL Routines reference
-        # http://support.sas.com/documentation/cdl/en/lefunctionsref/67960/PDF/default/lefunctionsref.pdf
+        # https://support.sas.com/documentation/cdl/en/lefunctionsref/67960/PDF/default/lefunctionsref.pdf
         @sas_functions ||= Set.new %w(
           ABS ADDR ADDRLONG AIRY ALLCOMB ALLPERM ANYALNUM ANYALPHA ANYCNTRL
           ANYDIGIT ANYFIRST ANYGRAPH ANYLOWER ANYNAME ANYPRINT ANYPUNCT
@@ -329,7 +329,7 @@ module Rouge
 
       def self.sas_proc_names
         # from SAS Procedures by Name
-        # http://support.sas.com/documentation/cdl/en/allprodsproc/68038/HTML/default/viewer.htm#procedures.htm
+        # https://support.sas.com/documentation/cdl/en/allprodsproc/68038/HTML/default/viewer.htm#procedures.htm
 
         @sas_proc_names ||= Set.new %w(
           ACCESS ACECLUS ADAPTIVEREG ALLELE ANOM ANOVA APPEND APPSRV ARIMA

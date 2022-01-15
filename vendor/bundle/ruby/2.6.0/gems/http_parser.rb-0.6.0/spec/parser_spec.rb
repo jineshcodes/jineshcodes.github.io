@@ -1,9 +1,9 @@
 require "spec_helper"
 require "json"
 
-describe HTTP::Parser do
+describe https::Parser do
   before do
-    @parser = HTTP::Parser.new
+    @parser = https::Parser.new
 
     @headers = nil
     @body = ""
@@ -33,16 +33,16 @@ describe HTTP::Parser do
       @parser.header_value_type = type
       @parser.header_value_type.should == type
 
-      parser_tmp = HTTP::Parser.new(nil, type)
+      parser_tmp = https::Parser.new(nil, type)
       parser_tmp.header_value_type.should == type
     end
   end
 
   it "should allow us to set the default header value type" do
     [:mixed, :arrays, :strings].each do |type|
-      HTTP::Parser.default_header_value_type = type
+      https::Parser.default_header_value_type = type
 
-      parser = HTTP::Parser.new
+      parser = https::Parser.new
       parser.header_value_type.should == type
     end
   end
@@ -52,7 +52,7 @@ describe HTTP::Parser do
   end
 
   it "should throw an Argument Error if default header value type is invalid" do
-    proc{ HTTP::Parser.default_header_value_type = 'bob' }.should raise_error(ArgumentError)
+    proc{ https::Parser.default_header_value_type = 'bob' }.should raise_error(ArgumentError)
   end
 
   it "should implement basic api" do
@@ -84,7 +84,7 @@ describe HTTP::Parser do
   end
 
   it "should raise errors on invalid data" do
-    proc{ @parser << "BLAH" }.should raise_error(HTTP::Parser::Error)
+    proc{ @parser << "BLAH" }.should raise_error(https::Parser::Error)
   end
 
   it "should abort parser via callback" do
@@ -228,7 +228,7 @@ describe HTTP::Parser do
     callbacks.stub(:on_body){ |chunk| @body << chunk }
     callbacks.stub(:on_message_complete){ @done = true }
 
-    @parser = HTTP::Parser.new(callbacks)
+    @parser = https::Parser.new(callbacks)
     @parser << "GET / HTTP/1.0\r\n\r\n"
 
     @started.should be_true
@@ -307,7 +307,7 @@ describe HTTP::Parser do
   %w[ request response ].each do |type|
     JSON.parse(File.read(File.expand_path("../support/#{type}s.json", __FILE__))).each do |test|
       test['headers'] ||= {}
-      next if !defined?(JRUBY_VERSION) and HTTP::Parser.strict? != test['strict']
+      next if !defined?(JRUBY_VERSION) and https::Parser.strict? != test['strict']
 
       it "should parse #{type}: #{test['name']}" do
         @parser << test['raw']

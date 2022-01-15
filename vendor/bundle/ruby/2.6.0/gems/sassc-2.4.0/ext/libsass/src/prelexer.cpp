@@ -46,7 +46,7 @@ namespace Sass {
           true => /(#{URLCHAR}*?)(#{W}\)|#\{)/
         },
         # Defined in https://developer.mozilla.org/en/CSS/@-moz-document as a
-        # non-standard version of http://www.w3.org/TR/css3-conditional/
+        # non-standard version of https://www.w3.org/TR/css3-conditional/
         :url_prefix => {
           false => /url-prefix\(#{W}(#{URLCHAR}*?)(#{W}\)|#\{)/,
           true => /(#{URLCHAR}*?)(#{W}\)|#\{)/

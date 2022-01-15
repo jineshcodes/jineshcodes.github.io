@@ -2170,7 +2170,7 @@ module REXML
     # with entities expanded:
     #
     #   xml_string = <<-EOT
-    #     <root xmlns:foo="http://foo" xmlns:bar="http://bar">
+    #     <root xmlns:foo="https://foo" xmlns:bar="https://bar">
     #        <ele foo:att='1' bar:att='2' att='&lt;'/>
     #     </root>
     #   EOT
@@ -2195,7 +2195,7 @@ module REXML
     # the attributes:
     #
     #   xml_string = <<-EOT
-    #     <root xmlns:foo="http://foo" xmlns:bar="http://bar">
+    #     <root xmlns:foo="https://foo" xmlns:bar="https://bar">
     #        <ele foo:att='1' bar:att='2' att='&lt;'/>
     #     </root>
     #   EOT
@@ -2214,7 +2214,7 @@ module REXML
     # Returns the count of attributes:
     #
     #   xml_string = <<-EOT
-    #     <root xmlns:foo="http://foo" xmlns:bar="http://bar">
+    #     <root xmlns:foo="https://foo" xmlns:bar="https://bar">
     #        <ele foo:att='1' bar:att='2' att='&lt;'/>
     #     </root>
     #   EOT
@@ -2235,7 +2235,7 @@ module REXML
     # Calls the given block with each \REXML::Attribute object:
     #
     #   xml_string = <<-EOT
-    #     <root xmlns:foo="http://foo" xmlns:bar="http://bar">
+    #     <root xmlns:foo="https://foo" xmlns:bar="https://bar">
     #        <ele foo:att='1' bar:att='2' att='&lt;'/>
     #     </root>
     #   EOT
@@ -2268,7 +2268,7 @@ module REXML
     # Calls the given block with each expanded-name/value pair:
     #
     #   xml_string = <<-EOT
-    #     <root xmlns:foo="http://foo" xmlns:bar="http://bar">
+    #     <root xmlns:foo="https://foo" xmlns:bar="https://bar">
     #        <ele foo:att='1' bar:att='2' att='&lt;'/>
     #     </root>
     #   EOT
@@ -2297,7 +2297,7 @@ module REXML
     # Returns the \REXML::Attribute object for the given +name+:
     #
     #   xml_string = <<-EOT
-    #     <root xmlns:foo="http://foo" xmlns:bar="http://bar">
+    #     <root xmlns:foo="https://foo" xmlns:bar="https://bar">
     #        <ele foo:att='1' bar:att='2' att='&lt;'/>
     #     </root>
     #   EOT
@@ -2351,7 +2351,7 @@ module REXML
     # overwriting the previous value if it exists:
     #
     #   xml_string = <<-EOT
-    #     <root xmlns:foo="http://foo" xmlns:bar="http://bar">
+    #     <root xmlns:foo="https://foo" xmlns:bar="https://bar">
     #        <ele foo:att='1' bar:att='2' att='&lt;'/>
     #     </root>
     #   EOT
@@ -2470,7 +2470,7 @@ module REXML
     # removes the attribute of that name if it exists:
     #
     #   xml_string = <<-EOT
-    #     <root xmlns:foo="http://foo" xmlns:bar="http://bar">
+    #     <root xmlns:foo="https://foo" xmlns:bar="https://bar">
     #        <ele foo:att='1' bar:att='2' att='&lt;'/>
     #     </root>
     #   EOT
@@ -2522,7 +2522,7 @@ module REXML
     # returns +attribute+:
     #
     #   xml_string = <<-EOT
-    #     <root xmlns:foo="http://foo" xmlns:bar="http://bar">
+    #     <root xmlns:foo="https://foo" xmlns:bar="https://bar">
     #        <ele foo:att='1' bar:att='2' att='&lt;'/>
     #     </root>
     #   EOT
@@ -2547,7 +2547,7 @@ module REXML
     # returns an array of the removed attributes:
     #
     #   xml_string = <<-EOT
-    #     <root xmlns:foo="http://foo" xmlns:bar="http://bar">
+    #     <root xmlns:foo="https://foo" xmlns:bar="https://bar">
     #        <ele foo:att='1' bar:att='2' att='&lt;'/>
     #     </root>
     #   EOT
@@ -2572,15 +2572,15 @@ module REXML
     # that matches the given +namespace+ and +name+:
     #
     #   xml_string = <<-EOT
-    #     <root xmlns:foo="http://foo" xmlns:bar="http://bar">
+    #     <root xmlns:foo="https://foo" xmlns:bar="https://bar">
     #        <ele foo:att='1' bar:att='2' att='&lt;'/>
     #     </root>
     #   EOT
     #   d = REXML::Document.new(xml_string)
     #   ele = d.root.elements['//ele'] # => <a foo:att='1' bar:att='2' att='&lt;'/>
     #   attrs = ele.attributes
-    #   attrs.get_attribute_ns('http://foo', 'att')    # => foo:att='1'
-    #   attrs.get_attribute_ns('http://foo', 'nosuch') # => nil
+    #   attrs.get_attribute_ns('https://foo', 'att')    # => foo:att='1'
+    #   attrs.get_attribute_ns('https://foo', 'nosuch') # => nil
     #
     def get_attribute_ns(namespace, name)
       result = nil

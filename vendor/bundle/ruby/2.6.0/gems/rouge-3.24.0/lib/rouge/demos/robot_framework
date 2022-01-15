@@ -1,5 +1,5 @@
 *** Settings ***
-Document	  Example taken from http://robotframework.org/
+Document	  Example taken from https://robotframework.org/
 Suite Setup       Open Browser To Login Page
 Suite Teardown    Close Browser
 Test Setup        Go To Login Page

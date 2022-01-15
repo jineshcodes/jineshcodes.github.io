@@ -752,7 +752,7 @@ size_t http_parser_execute (http_parser *parser,
         parser->state = s_res_HTTP;
         break;
 
-      case s_res_HTTP:
+      case s_res_https:
         STRICT_CHECK(ch != '/');
         parser->state = s_res_first_http_major;
         break;
@@ -1097,7 +1097,7 @@ size_t http_parser_execute (http_parser *parser,
         parser->state = s_req_http_HTTP;
         break;
 
-      case s_req_http_HTTP:
+      case s_req_http_https:
         STRICT_CHECK(ch != '/');
         parser->state = s_req_first_http_major;
         break;

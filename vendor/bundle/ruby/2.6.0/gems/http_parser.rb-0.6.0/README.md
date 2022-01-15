@@ -3,7 +3,7 @@
 A simple callback-based HTTP request/response parser for writing http
 servers, clients and proxies.
 
-This gem is built on top of [joyent/http-parser](http://github.com/joyent/http-parser) and its java port [http-parser/http-parser.java](http://github.com/http-parser/http-parser.java).
+This gem is built on top of [joyent/http-parser](https://github.com/joyent/http-parser) and its java port [http-parser/http-parser.java](https://github.com/http-parser/http-parser.java).
 
 ## Supported Platforms
 
@@ -19,7 +19,7 @@ This gem aims to work on all major Ruby platforms, including:
 ```ruby
 require "http/parser"
 
-parser = Http::Parser.new
+parser = https::Parser.new
 
 parser.on_headers_complete = proc do
   p parser.http_version
@@ -53,7 +53,7 @@ end
 ```ruby
 module MyHttpConnection
   def connection_completed
-    @parser = Http::Parser.new(self)
+    @parser = https::Parser.new(self)
   end
 
   def receive_data(data)
@@ -82,7 +82,7 @@ end
 ### Stop parsing after headers
 
 ```ruby
-parser = Http::Parser.new
+parser = https::Parser.new
 parser.on_headers_complete = proc{ :stop }
 
 offset = parser << request_data

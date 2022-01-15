@@ -288,7 +288,7 @@ module REXML
       # string is longer than the to string
       #
       # there's nothing about - or ^ being special in
-      # http://www.w3.org/TR/xpath#function-translate
+      # https://www.w3.org/TR/xpath#function-translate
       # so we don't build ranges or negated classes
 
       map = Hash.new

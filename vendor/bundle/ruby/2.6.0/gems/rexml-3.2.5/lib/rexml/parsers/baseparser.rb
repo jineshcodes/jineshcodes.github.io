@@ -645,14 +645,14 @@ module REXML
           value = scanner[5]
           if prefix == "xmlns"
             if local_part == "xml"
-              if value != "http://www.w3.org/XML/1998/namespace"
+              if value != "https://www.w3.org/XML/1998/namespace"
                 msg = "The 'xml' prefix must not be bound to any other namespace "+
-                  "(http://www.w3.org/TR/REC-xml-names/#ns-decl)"
+                  "(https://www.w3.org/TR/REC-xml-names/#ns-decl)"
                 raise REXML::ParseException.new( msg, @source, self )
               end
             elsif local_part == "xmlns"
               msg = "The 'xmlns' prefix must not be declared "+
-                "(http://www.w3.org/TR/REC-xml-names/#ns-decl)"
+                "(https://www.w3.org/TR/REC-xml-names/#ns-decl)"
               raise REXML::ParseException.new( msg, @source, self)
             end
             curr_ns << local_part

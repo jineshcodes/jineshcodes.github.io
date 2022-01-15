@@ -77,10 +77,10 @@ module REXML
     # Returns the namespace URL, if defined, or nil otherwise
     #
     #  e = Element.new("el")
-    #  e.add_namespace("ns", "http://url")
+    #  e.add_namespace("ns", "https://url")
     #  e.add_attribute("ns:a", "b")
     #  e.add_attribute("nsx:a", "c")
-    #  e.attribute("ns:a").namespace # => "http://url"
+    #  e.attribute("ns:a").namespace # => "https://url"
     #  e.attribute("nsx:a").namespace # => nil
     #
     # This method always returns "" for no namespace attribute. Because
@@ -91,8 +91,8 @@ module REXML
     # > the default namespace does not apply to attribute names
     #
     #  e = REXML::Element.new("el")
-    #  e.add_namespace("", "http://example.com/")
-    #  e.namespace # => "http://example.com/"
+    #  e.add_namespace("", "https://example.com/")
+    #  e.namespace # => "https://example.com/"
     #  e.add_attribute("a", "b")
     #  e.attribute("a").namespace # => ""
     def namespace arg=nil

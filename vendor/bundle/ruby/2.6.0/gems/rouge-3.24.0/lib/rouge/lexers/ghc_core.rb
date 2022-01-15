@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*- #
 # frozen_string_literal: true
 
-# See http://www.cs.cmu.edu/afs/andrew/course/15/411/ghc/share/doc/ghc/ext-core/core.pdf for a description of the syntax
+# See https://www.cs.cmu.edu/afs/andrew/course/15/411/ghc/share/doc/ghc/ext-core/core.pdf for a description of the syntax
 # of the language and https://www.aosabook.org/en/ghc.html for a high level overview.
 module Rouge
   module Lexers

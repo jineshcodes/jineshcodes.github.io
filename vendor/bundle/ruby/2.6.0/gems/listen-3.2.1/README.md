@@ -4,7 +4,7 @@
 
 # Listen
 
-[![Gem Version](https://badge.fury.io/rb/listen.svg)](http://badge.fury.io/rb/listen) [![Build Status](https://travis-ci.org/guard/listen.svg)](https://travis-ci.org/guard/listen) [![Code Climate](https://codeclimate.com/github/guard/listen.svg)](https://codeclimate.com/github/guard/listen) [![Coverage Status](https://coveralls.io/repos/guard/listen/badge.svg?branch=master)](https://coveralls.io/r/guard/listen)
+[![Gem Version](https://badge.fury.io/rb/listen.svg)](https://badge.fury.io/rb/listen) [![Build Status](https://travis-ci.org/guard/listen.svg)](https://travis-ci.org/guard/listen) [![Code Climate](https://codeclimate.com/github/guard/listen.svg)](https://codeclimate.com/github/guard/listen) [![Coverage Status](https://coveralls.io/repos/guard/listen/badge.svg?branch=master)](https://coveralls.io/r/guard/listen)
 
 The Listen gem listens to file modifications and notifies you about the changes.
 
@@ -36,7 +36,7 @@ Pull requests or help is very welcome for these.
 
 ## Install
 
-The simplest way to install Listen is to use [Bundler](http://bundler.io).
+The simplest way to install Listen is to use [Bundler](https://bundler.io).
 
 ```ruby
 gem 'listen', '~> 3.0' # NOTE: for TCP functionality, use '~> 2.10' for now
@@ -248,18 +248,18 @@ See also [Tips and Techniques](https://github.com/guard/listen/wiki/Tips-and-Tec
 
 ## Development
 
-* Documentation hosted at [RubyDoc](http://rubydoc.info/github/guard/listen/master/frames).
+* Documentation hosted at [RubyDoc](https://rubydoc.info/github/guard/listen/master/frames).
 * Source hosted at [GitHub](https://github.com/guard/listen).
 
 Pull requests are very welcome! Please try to follow these simple rules if applicable:
 
 * Please create a topic branch for every separate change you make.
 * Make sure your patches are well tested. All specs must pass on [Travis CI](https://travis-ci.org/guard/listen).
-* Update the [Yard](http://yardoc.org/) documentation.
+* Update the [Yard](https://yardoc.org/) documentation.
 * Update the [README](https://github.com/guard/listen/blob/master/README.md).
 * Please **do not change** the version number.
 
-For questions please join us in our [Google group](http://groups.google.com/group/guard-dev) or on
+For questions please join us in our [Google group](https://groups.google.com/group/guard-dev) or on
 `#guard` (irc.freenode.net).
 
 ## Releasing
@@ -273,7 +273,7 @@ For questions please join us in our [Google group](http://groups.google.com/grou
 
 1. Run `bundle install` to make sure that you have all the gems necessary for testing and releasing.
 2.  **Ensure all tests are passing by running `bundle exec rake`.**
-3. Determine which would be the correct next version number according to [semver](http://semver.org/).
+3. Determine which would be the correct next version number according to [semver](https://semver.org/).
 4. Update the version in `./lib/listen/version.rb`.
 5. Update the version in the Install section of `./README.md` (`gem 'listen', '~> X.Y'`).
 6. Commit the version in a single commit, the message should be "Preparing vX.Y.Z"

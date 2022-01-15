@@ -6,7 +6,7 @@ See [the Sass blog][], and consider switching to the [`sassc` gem].
 [the Sass blog]: https://sass-lang.com/blog/posts/7828841
 [`sassc` gem]: https://rubygems.org/gems/sassc
 
-# Sass [![Travis Build Status](https://travis-ci.org/sass/ruby-sass.svg?branch=next)](https://travis-ci.org/sass/ruby-sass) [![Gem Version](https://badge.fury.io/rb/sass.svg)](http://badge.fury.io/rb/sass) [![Inline docs](http://inch-ci.org/github/sass/sass.svg)](http://inch-ci.org/github/sass/sass)
+# Sass [![Travis Build Status](https://travis-ci.org/sass/ruby-sass.svg?branch=next)](https://travis-ci.org/sass/ruby-sass) [![Gem Version](https://badge.fury.io/rb/sass.svg)](https://badge.fury.io/rb/sass) [![Inline docs](https://inch-ci.org/github/sass/sass.svg)](https://inch-ci.org/github/sass/sass)
 
 **Sass makes CSS fun again**. Sass is an extension of CSS,
 adding nested rules, variables, mixins, selector inheritance, and more.
@@ -79,7 +79,7 @@ and more, all with a fully CSS-compatible syntax.
 Sass helps keep large stylesheets well-organized,
 and get small stylesheets up and running quickly,
 particularly with the help of
-[the Compass style library](http://compass-style.org).
+[the Compass style library](https://compass-style.org).
 
 [vars]:    https://sass-lang.com/documentation/file.SASS_REFERENCE.html#variables_
 [nested]:  https://sass-lang.com/documentation/file.SASS_REFERENCE.html#nested_rules
@@ -201,35 +201,35 @@ $ bundle exec sass-convert ...
 
 ## Authors
 
-Sass was envisioned by [Hampton Catlin](http://www.hamptoncatlin.com)
+Sass was envisioned by [Hampton Catlin](https://www.hamptoncatlin.com)
 (@hcatlin). However, Hampton doesn't even know his way around the code anymore
 and now occasionally consults on the language issues. Hampton lives in San
 Francisco, California and works as VP of Technology
-at [Moovweb](http://www.moovweb.com/).
+at [Moovweb](https://www.moovweb.com/).
 
 [Natalie Weizenbaum](https://twitter.com/nex3) is the primary developer and
 architect of Sass. Her hard work has kept the project alive by endlessly
 answering forum posts, fixing bugs, refactoring, finding speed improvements,
 writing documentation, implementing new features, and designing the language.
-Natalie lives in Seattle, Washington and works on [Dart](http://dartlang.org)
+Natalie lives in Seattle, Washington and works on [Dart](https://dartlang.org)
 application libraries at Google.
 
-[Chris Eppstein](http://twitter.com/chriseppstein) is a core contributor to
-Sass and the creator of [Compass](http://compass-style.org/), the first Sass-based framework, and
-[Eyeglass](http://github.com/sass-eyeglass/eyeglass), a node-sass plugin ecosystem for NPM. Chris focuses
+[Chris Eppstein](https://twitter.com/chriseppstein) is a core contributor to
+Sass and the creator of [Compass](https://compass-style.org/), the first Sass-based framework, and
+[Eyeglass](https://github.com/sass-eyeglass/eyeglass), a node-sass plugin ecosystem for NPM. Chris focuses
 on making Sass more powerful, easy to use, and on ways to speed its adoption
 through the web development community. Chris lives in San Jose, California with
 his wife and two children. He is an Engineer for
-[LinkedIn.com](http://linkedin.com), where his primary responsibility is to
+[LinkedIn.com](https://linkedin.com), where his primary responsibility is to
 maintain Sass and many other Sass-related open source projects.
 
 If you use this software, we'd be truly honored if you'd make a
 tax-deductible donation to a non-profit organization and then
-[let us know on twitter](http://twitter.com/SassCSS), so that we can
+[let us know on twitter](https://twitter.com/SassCSS), so that we can
 thank you. Here's a few that we endorse:
 
-* [Trans Justice Funding Project](http://www.transjusticefundingproject.org/)
-* [United Mitochondrial Disease Foundation](http://umdf.org/compass)
+* [Trans Justice Funding Project](https://www.transjusticefundingproject.org/)
+* [United Mitochondrial Disease Foundation](https://umdf.org/compass)
 * [Girl Develop It](https://www.girldevelopit.com/donate)
 
 Sass is licensed under the MIT License.

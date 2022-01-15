@@ -1,4 +1,4 @@
-declare namespace html = "http://www.w3.org/1999/xhtml";
+declare namespace html = "https://www.w3.org/1999/xhtml";
 
 declare function local:test-function($catalog as document-node()) {
   <html>

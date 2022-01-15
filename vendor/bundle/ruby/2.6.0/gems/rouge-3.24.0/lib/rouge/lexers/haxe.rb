@@ -4,7 +4,7 @@ module Rouge
   module Lexers
     class Haxe < RegexLexer
       title "Haxe"
-      desc "Haxe Cross-platform Toolkit (http://haxe.org)"
+      desc "Haxe Cross-platform Toolkit (https://haxe.org)"
 
       tag 'haxe'
       aliases 'hx', 'haxe'

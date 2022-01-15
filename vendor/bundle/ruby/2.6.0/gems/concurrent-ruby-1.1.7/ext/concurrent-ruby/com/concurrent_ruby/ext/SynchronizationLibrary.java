@@ -149,7 +149,7 @@ public class SynchronizationLibrary implements Library {
             if (!FULL_FENCE) {
                 // Assuming that following volatile read and write is not eliminated it simulates fullFence.
                 // If it's eliminated it'll cause problems only on non-x86 platforms.
-                // http://shipilev.net/blog/2014/jmm-pragmatics/#_happens_before_test_your_understanding
+                // https://shipilev.net/blog/2014/jmm-pragmatics/#_happens_before_test_your_understanding
                 final int volatileRead = volatileField;
                 volatileField = context.getLine();
             } else {

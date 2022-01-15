@@ -23,7 +23,7 @@ ad
 nom.ad
 
 // ae : https://en.wikipedia.org/wiki/.ae
-// see also: "Domain Name Eligibility Policy" at http://www.aeda.ae/eng/aepolicy.php
+// see also: "Domain Name Eligibility Policy" at https://www.aeda.ae/eng/aepolicy.php
 ae
 co.ae
 net.ae
@@ -122,7 +122,7 @@ union.aero
 workinggroup.aero
 works.aero
 
-// af : http://www.nic.af/help.jsp
+// af : https://www.nic.af/help.jsp
 af
 gov.af
 com.af
@@ -130,7 +130,7 @@ org.af
 net.af
 edu.af
 
-// ag : http://www.nic.ag/prices.htm
+// ag : https://www.nic.ag/prices.htm
 ag
 com.ag
 org.ag
@@ -138,14 +138,14 @@ net.ag
 co.ag
 nom.ag
 
-// ai : http://nic.com.ai/
+// ai : https://nic.com.ai/
 ai
 off.ai
 com.ai
 net.ai
 org.ai
 
-// al : http://www.ert.gov.al/ert_alb/faq_det.html?Id=31
+// al : https://www.ert.gov.al/ert_alb/faq_det.html?Id=31
 al
 com.al
 edu.al
@@ -163,7 +163,7 @@ net.am
 org.am
 
 // ao : https://en.wikipedia.org/wiki/.ao
-// http://www.dns.ao/REGISTR.DOC
+// https://www.dns.ao/REGISTR.DOC
 ao
 ed.ao
 gv.ao
@@ -215,7 +215,7 @@ or.at
 sth.ac.at
 
 // au : https://en.wikipedia.org/wiki/.au
-// http://www.auda.org.au/
+// https://www.auda.org.au/
 au
 // 2LDs
 com.au
@@ -229,7 +229,7 @@ id.au
 info.au
 conf.au
 oz.au
-// CGDNs - http://www.cgdn.org.au/
+// CGDNs - https://www.cgdn.org.au/
 act.au
 nsw.au
 nt.au
@@ -283,7 +283,7 @@ name.az
 pro.az
 biz.az
 
-// ba : http://nic.ba/users_data/files/pravilnik_o_registraciji.pdf
+// ba : https://nic.ba/users_data/files/pravilnik_o_registraciji.pdf
 ba
 com.ba
 edu.ba
@@ -366,7 +366,7 @@ org.bh
 gov.bh
 
 // bi : https://en.wikipedia.org/wiki/.bi
-// http://whois.nic.bi/
+// https://whois.nic.bi/
 bi
 co.bi
 com.bi
@@ -383,7 +383,7 @@ asso.bj
 barreau.bj
 gouv.bj
 
-// bm : http://www.bermudanic.bm/dnr-text.txt
+// bm : https://www.bermudanic.bm/dnr-text.txt
 bm
 com.bm
 edu.bm
@@ -391,7 +391,7 @@ gov.bm
 net.bm
 org.bm
 
-// bn : http://www.bnnic.bn/faqs
+// bn : https://www.bnnic.bn/faqs
 bn
 com.bn
 edu.bn
@@ -444,7 +444,7 @@ tksat.bo
 transporte.bo
 wiki.bo
 
-// br : http://registro.br/dominio/categoria.html
+// br : https://registro.br/dominio/categoria.html
 // Submitted by registry <fneves@registro.br>
 br
 9guacu.br
@@ -617,7 +617,7 @@ vlog.br
 wiki.br
 zlg.br
 
-// bs : http://www.nic.bs/rules.html
+// bs : https://www.nic.bs/rules.html
 bs
 com.bs
 net.bs
@@ -638,14 +638,14 @@ org.bt
 bv
 
 // bw : https://en.wikipedia.org/wiki/.bw
-// http://www.gobin.info/domainname/bw.doc
+// https://www.gobin.info/domainname/bw.doc
 // list of other 2nd level tlds ?
 bw
 co.bw
 org.bw
 
 // by : https://en.wikipedia.org/wiki/.by
-// http://tld.by/rules_2006_en.html
+// https://tld.by/rules_2006_en.html
 // list of other 2nd level tlds ?
 by
 gov.by
@@ -655,11 +655,11 @@ mil.by
 // www.yahoo.com.by, for example), so we list it here for safety's sake.
 com.by
 
-// http://hoster.by/
+// https://hoster.by/
 of.by
 
 // bz : https://en.wikipedia.org/wiki/.bz
-// http://www.belizenic.bz/
+// https://www.belizenic.bz/
 bz
 com.bz
 net.bz
@@ -685,7 +685,7 @@ qc.ca
 sk.ca
 yk.ca
 // gc.ca: https://en.wikipedia.org/wiki/.gc.ca
-// see also: http://registry.gc.ca/en/SubdomainFAQ
+// see also: https://registry.gc.ca/en/SubdomainFAQ
 gc.ca
 
 // cat : https://en.wikipedia.org/wiki/.cat
@@ -709,7 +709,7 @@ cg
 ch
 
 // ci : https://en.wikipedia.org/wiki/.ci
-// http://www.nic.ci/index.php?page=charte
+// https://www.nic.ci/index.php?page=charte
 ci
 org.ci
 or.ci
@@ -819,7 +819,7 @@ com
 // coop : https://en.wikipedia.org/wiki/.coop
 coop
 
-// cr : http://www.nic.cr/niccr_publico/showRegistroDominiosScreen.do
+// cr : https://www.nic.cr/niccr_publico/showRegistroDominiosScreen.do
 cr
 ac.cr
 co.cr
@@ -841,7 +841,7 @@ inf.cu
 // cv : https://en.wikipedia.org/wiki/.cv
 cv
 
-// cw : http://www.una.cw/cw_registry/
+// cw : https://www.una.cw/cw_registry/
 // Confirmed by registry <registry@una.net> 2013-03-26
 cw
 com.cw
@@ -854,7 +854,7 @@ org.cw
 cx
 gov.cx
 
-// cy : http://www.nic.cy/
+// cy : https://www.nic.cy/
 // Submitted by registry Panayiotou Fotia <cydns@ucy.ac.cy>
 cy
 ac.cy
@@ -918,7 +918,7 @@ asso.dz
 pol.dz
 art.dz
 
-// ec : http://www.nic.ec/reg/paso1.asp
+// ec : https://www.nic.ec/reg/paso1.asp
 // Submitted by registry <vabboud@nic.ec>
 ec
 com.ec
@@ -937,7 +937,7 @@ mil.ec
 // edu : https://en.wikipedia.org/wiki/.edu
 edu
 
-// ee : http://www.eenet.ee/EENet/dom_reeglid.html#lisa_B
+// ee : https://www.eenet.ee/EENet/dom_reeglid.html#lisa_B
 ee
 edu.ee
 gov.ee
@@ -996,7 +996,7 @@ fi
 // TODO: Check for updates (expected to be phased out around Q1/2009)
 aland.fi
 
-// fj : http://domains.fj/
+// fj : https://domains.fj/
 // Submitted by registry <garth.miller@cocca.org.nz> 2020-02-11
 fj
 ac.fj
@@ -1023,7 +1023,7 @@ fm
 // fo : https://en.wikipedia.org/wiki/.fo
 fo
 
-// fr : http://www.afnic.fr/
+// fr : https://www.afnic.fr/
 // domaines descriptifs : https://www.afnic.fr/medias/documents/Cadre_legal/Afnic_Naming_Policy_12122016_VEN.pdf
 fr
 asso.fr
@@ -1061,7 +1061,7 @@ edu.gd
 gov.gd
 gd
 
-// ge : http://www.nic.net.ge/policy_en.pdf
+// ge : https://www.nic.net.ge/policy_en.pdf
 ge
 com.ge
 edu.ge
@@ -1074,7 +1074,7 @@ pvt.ge
 // gf : https://en.wikipedia.org/wiki/.gf
 gf
 
-// gg : http://www.channelisles.net/register-domains/
+// gg : https://www.channelisles.net/register-domains/
 // Confirmed by registry <nigel@channelisles.net> 2013-11-28
 gg
 co.gg
@@ -1082,7 +1082,7 @@ net.gg
 org.gg
 
 // gh : https://en.wikipedia.org/wiki/.gh
-// see also: http://www.nic.gh/reg_now.php
+// see also: https://www.nic.gh/reg_now.php
 // Although domains directly at second level are not possible at the moment,
 // they have been possible for some time and may come back.
 gh
@@ -1092,7 +1092,7 @@ gov.gh
 org.gh
 mil.gh
 
-// gi : http://www.nic.gi/rules.html
+// gi : https://www.nic.gi/rules.html
 gi
 com.gi
 ltd.gi
@@ -1102,7 +1102,7 @@ edu.gi
 org.gi
 
 // gl : https://en.wikipedia.org/wiki/.gl
-// http://nic.gl
+// https://nic.gl
 gl
 co.gl
 com.gl
@@ -1110,10 +1110,10 @@ edu.gl
 net.gl
 org.gl
 
-// gm : http://www.nic.gm/htmlpages%5Cgm-policy.htm
+// gm : https://www.nic.gm/htmlpages%5Cgm-policy.htm
 gm
 
-// gn : http://psg.com/dns/gn/gn.txt
+// gn : https://psg.com/dns/gn/gn.txt
 // Submitted by registry <randy@psg.com>
 gn
 ac.gn
@@ -1126,7 +1126,7 @@ net.gn
 // gov : https://en.wikipedia.org/wiki/.gov
 gov
 
-// gp : http://www.nic.gp/index.php?lang=en
+// gp : https://www.nic.gp/index.php?lang=en
 gp
 com.gp
 net.gp
@@ -1150,7 +1150,7 @@ gov.gr
 // gs : https://en.wikipedia.org/wiki/.gs
 gs
 
-// gt : http://www.gt/politicas_de_registro.html
+// gt : https://www.gt/politicas_de_registro.html
 gt
 com.gt
 edu.gt
@@ -1160,7 +1160,7 @@ mil.gt
 net.gt
 org.gt
 
-// gu : http://gadao.gov.gu/register.html
+// gu : https://gadao.gov.gu/register.html
 // University of Guam : https://www.uog.edu
 // Submitted by uognoc@triton.uog.edu
 gu
@@ -1177,7 +1177,7 @@ web.gu
 gw
 
 // gy : https://en.wikipedia.org/wiki/.gy
-// http://registry.gy/
+// https://registry.gy/
 gy
 co.gy
 com.gy
@@ -1214,7 +1214,7 @@ org.hk
 // hm : https://en.wikipedia.org/wiki/.hm
 hm
 
-// hn : http://www.nic.hn/politicas/ps02,,05.html
+// hn : https://www.nic.hn/politicas/ps02,,05.html
 hn
 com.hn
 edu.hn
@@ -1223,14 +1223,14 @@ net.hn
 mil.hn
 gob.hn
 
-// hr : http://www.dns.hr/documents/pdf/HRTLD-regulations.pdf
+// hr : https://www.dns.hr/documents/pdf/HRTLD-regulations.pdf
 hr
 iz.hr
 from.hr
 name.hr
 com.hr
 
-// ht : http://www.nic.ht/info/charte.cfm
+// ht : https://www.nic.ht/info/charte.cfm
 ht
 com.ht
 shop.ht
@@ -1250,7 +1250,7 @@ rel.ht
 gouv.ht
 perso.ht
 
-// hu : http://www.domain.hu/domain/English/sld.html
+// hu : https://www.domain.hu/domain/English/sld.html
 // Confirmed by registry <pasztor@iszt.hu> 2008-06-12
 hu
 co.hu
@@ -1304,7 +1304,7 @@ web.id
 ie
 gov.ie
 
-// il : http://www.isoc.org.il/domains/
+// il : https://www.isoc.org.il/domains/
 il
 ac.il
 co.il
@@ -1354,12 +1354,12 @@ info
 int
 eu.int
 
-// io : http://www.nic.io/rules.html
+// io : https://www.nic.io/rules.html
 // list of other 2nd level tlds ?
 io
 com.io
 
-// iq : http://www.cmc.iq/english/iq/iqregister1.htm
+// iq : https://www.cmc.iq/english/iq/iqregister1.htm
 iq
 gov.iq
 edu.iq
@@ -1368,8 +1368,8 @@ com.iq
 org.iq
 net.iq
 
-// ir : http://www.nic.ir/Terms_and_Conditions_ir,_Appendix_1_Domain_Rules
-// Also see http://www.nic.ir/Internationalized_Domain_Names
+// ir : https://www.nic.ir/Terms_and_Conditions_ir,_Appendix_1_Domain_Rules
+// Also see https://www.nic.ir/Internationalized_Domain_Names
 // Two <iran>.ir entries added at request of <tech-team@nic.ir>, 2010-04-16
 ir
 ac.ir
@@ -1384,7 +1384,7 @@ sch.ir
 // xn--mgba3a4fra.ir (<iran>.ir, Arabic YEH)
 ايران.ir
 
-// is : http://www.isnic.is/domain/rules.php
+// is : https://www.isnic.is/domain/rules.php
 // Confirmed by registry <marius@isgate.is> 2008-12-06
 is
 net.is
@@ -1807,17 +1807,17 @@ vs.it
 vt.it
 vv.it
 
-// je : http://www.channelisles.net/register-domains/
+// je : https://www.channelisles.net/register-domains/
 // Confirmed by registry <nigel@channelisles.net> 2013-11-28
 je
 co.je
 net.je
 org.je
 
-// jm : http://www.com.jm/register.html
+// jm : https://www.com.jm/register.html
 *.jm
 
-// jo : http://www.dns.jo/Registration_policy.aspx
+// jo : https://www.dns.jo/Registration_policy.aspx
 jo
 com.jo
 org.jo
@@ -1832,7 +1832,7 @@ name.jo
 jobs
 
 // jp : https://en.wikipedia.org/wiki/.jp
-// http://jprs.co.jp/en/jpdomain.html
+// https://jprs.co.jp/en/jpdomain.html
 // Submitted by registry <info@jprs.jp>
 jp
 // jp organizational type names
@@ -1941,7 +1941,7 @@ yamanashi.jp
 鳥取.jp
 鹿児島.jp
 // jp geographic type names
-// http://jprs.jp/doc/rule/saisoku-1.html
+// https://jprs.jp/doc/rule/saisoku-1.html
 *.kawasaki.jp
 *.kitakyushu.jp
 *.kobe.jp
@@ -3631,7 +3631,7 @@ uenohara.yamanashi.jp
 yamanakako.yamanashi.jp
 yamanashi.yamanashi.jp
 
-// ke : http://www.kenic.or.ke/index.php/en/ke-domains/ke-domains
+// ke : https://www.kenic.or.ke/index.php/en/ke-domains/ke-domains
 ke
 ac.ke
 co.ke
@@ -3643,7 +3643,7 @@ ne.ke
 or.ke
 sc.ke
 
-// kg : http://www.domain.kg/dmn_n.html
+// kg : https://www.domain.kg/dmn_n.html
 kg
 org.kg
 net.kg
@@ -3652,10 +3652,10 @@ edu.kg
 gov.kg
 mil.kg
 
-// kh : http://www.mptc.gov.kh/dns_registration.htm
+// kh : https://www.mptc.gov.kh/dns_registration.htm
 *.kh
 
-// ki : http://www.ki/dns/index.html
+// ki : https://www.ki/dns/index.html
 ki
 edu.ki
 biz.ki
@@ -3666,7 +3666,7 @@ info.ki
 com.ki
 
 // km : https://en.wikipedia.org/wiki/.km
-// http://www.domaine.km/documents/charte.doc
+// https://www.domaine.km/documents/charte.doc
 km
 org.km
 nom.km
@@ -3689,14 +3689,14 @@ veterinaire.km
 gouv.km
 
 // kn : https://en.wikipedia.org/wiki/.kn
-// http://www.dot.kn/domainRules.html
+// https://www.dot.kn/domainRules.html
 kn
 net.kn
 org.kn
 edu.kn
 gov.kn
 
-// kp : http://www.kcce.kp/en_index.php
+// kp : https://www.kcce.kp/en_index.php
 kp
 com.kp
 edu.kp
@@ -3706,7 +3706,7 @@ rep.kp
 tra.kp
 
 // kr : https://en.wikipedia.org/wiki/.kr
-// see also: http://domain.nida.or.kr/eng/registration.jsp
+// see also: https://domain.nida.or.kr/eng/registration.jsp
 kr
 ac.kr
 co.kr
@@ -3750,7 +3750,7 @@ ind.kw
 net.kw
 org.kw
 
-// ky : http://www.icta.ky/da_ky_reg_dom.php
+// ky : https://www.icta.ky/da_ky_reg_dom.php
 // Confirmed by registry <kysupport@perimeterusa.com> 2008-06-17
 ky
 edu.ky
@@ -3760,7 +3760,7 @@ org.ky
 net.ky
 
 // kz : https://en.wikipedia.org/wiki/.kz
-// see also: http://www.nic.kz/rules/index.jsp
+// see also: https://www.nic.kz/rules/index.jsp
 kz
 org.kz
 edu.kz
@@ -3791,7 +3791,7 @@ net.lb
 org.lb
 
 // lc : https://en.wikipedia.org/wiki/.lc
-// see also: http://www.nic.lc/rules.htm
+// see also: https://www.nic.lc/rules.htm
 lc
 com.lc
 net.lc
@@ -3821,7 +3821,7 @@ grp.lk
 hotel.lk
 ac.lk
 
-// lr : http://psg.com/dns/lr/lr.txt
+// lr : https://psg.com/dns/lr/lr.txt
 // Submitted by registry <randy@psg.com>
 lr
 com.lr
@@ -3830,7 +3830,7 @@ gov.lr
 org.lr
 net.lr
 
-// ls : http://www.nic.ls/
+// ls : https://www.nic.ls/
 // Confirmed by registry <lsadmin@nic.ls>
 ls
 ac.ls
@@ -3845,13 +3845,13 @@ sc.ls
 
 // lt : https://en.wikipedia.org/wiki/.lt
 lt
-// gov.lt : http://www.gov.lt/index_en.php
+// gov.lt : https://www.gov.lt/index_en.php
 gov.lt
 
-// lu : http://www.dns.lu/en/
+// lu : https://www.dns.lu/en/
 lu
 
-// lv : http://www.nic.lv/DNS/En/generic.php
+// lv : https://www.nic.lv/DNS/En/generic.php
 lv
 com.lv
 edu.lv
@@ -3863,7 +3863,7 @@ net.lv
 asn.lv
 conf.lv
 
-// ly : http://www.nic.ly/regulations.php
+// ly : https://www.nic.ly/regulations.php
 ly
 com.ly
 net.ly
@@ -3876,7 +3876,7 @@ org.ly
 id.ly
 
 // ma : https://en.wikipedia.org/wiki/.ma
-// http://www.anrt.ma/fr/admin/download/upload/file_fr782.pdf
+// https://www.anrt.ma/fr/admin/download/upload/file_fr782.pdf
 ma
 co.ma
 net.ma
@@ -3885,7 +3885,7 @@ org.ma
 ac.ma
 press.ma
 
-// mc : http://www.nic.mc/
+// mc : https://www.nic.mc/
 mc
 tm.mc
 asso.mc
@@ -3904,7 +3904,7 @@ gov.me
 its.me
 priv.me
 
-// mg : http://nic.mg/nicmg/?page_id=39
+// mg : https://nic.mg/nicmg/?page_id=39
 mg
 org.mg
 nom.mg
@@ -3923,7 +3923,7 @@ mh
 mil
 
 // mk : https://en.wikipedia.org/wiki/.mk
-// see also: http://dns.marnet.net.mk/postapka.php
+// see also: https://dns.marnet.net.mk/postapka.php
 mk
 com.mk
 org.mk
@@ -3933,7 +3933,7 @@ gov.mk
 inf.mk
 name.mk
 
-// ml : http://www.gobin.info/domainname/ml-template.doc
+// ml : https://www.gobin.info/domainname/ml-template.doc
 // see also: https://en.wikipedia.org/wiki/.ml
 ml
 com.ml
@@ -3953,7 +3953,7 @@ gov.mn
 edu.mn
 org.mn
 
-// mo : http://www.monic.net.mo/
+// mo : https://www.monic.net.mo/
 mo
 com.mo
 net.mo
@@ -3964,7 +3964,7 @@ gov.mo
 // mobi : https://en.wikipedia.org/wiki/.mobi
 mobi
 
-// mp : http://www.dot.mp/
+// mp : https://www.dot.mp/
 // Confirmed by registry <dcamacho@saipan.com> 2008-06-17
 mp
 
@@ -3975,7 +3975,7 @@ mq
 mr
 gov.mr
 
-// ms : http://www.nic.ms/pdf/MS_Domain_Name_Rules.pdf
+// ms : https://www.nic.ms/pdf/MS_Domain_Name_Rules.pdf
 ms
 com.ms
 edu.ms
@@ -4001,8 +4001,8 @@ ac.mu
 co.mu
 or.mu
 
-// museum : http://about.museum/naming/
-// http://index.museum/
+// museum : https://about.museum/naming/
+// https://index.museum/
 museum
 academy.museum
 agriculture.museum
@@ -4569,7 +4569,7 @@ net.mv
 org.mv
 pro.mv
 
-// mw : http://www.registrar.mw/
+// mw : https://www.registrar.mw/
 mw
 ac.mw
 biz.mw
@@ -4583,7 +4583,7 @@ museum.mw
 net.mw
 org.mw
 
-// mx : http://www.nic.mx/
+// mx : https://www.nic.mx/
 // Submitted by registry <farias@nic.mx>
 mx
 com.mx
@@ -4592,7 +4592,7 @@ gob.mx
 edu.mx
 net.mx
 
-// my : http://www.mynic.net.my/
+// my : https://www.mynic.net.my/
 my
 com.my
 net.my
@@ -4602,7 +4602,7 @@ edu.my
 mil.my
 name.my
 
-// mz : http://www.uem.mz/
+// mz : https://www.uem.mz/
 // Submitted by registry <antonio@uem.mz>
 mz
 ac.mz
@@ -4614,8 +4614,8 @@ mil.mz
 net.mz
 org.mz
 
-// na : http://www.na-nic.com.na/
-// http://www.info.na/domain/
+// na : https://www.na-nic.com.na/
+// https://www.info.na/domain/
 na
 info.na
 pro.na
@@ -4638,7 +4638,7 @@ org.na
 // name : has 2nd-level tlds, but there's no list of them
 name
 
-// nc : http://www.cctld.nc/
+// nc : https://www.cctld.nc/
 nc
 asso.nc
 nom.nc
@@ -4662,7 +4662,7 @@ info.nf
 other.nf
 store.nf
 
-// ng : http://www.nira.org.ng/index.php/join-us/register-ng-domain/189-nira-slds
+// ng : https://www.nira.org.ng/index.php/join-us/register-ng-domain/189-nira-slds
 ng
 com.ng
 edu.ng
@@ -4675,7 +4675,7 @@ net.ng
 org.ng
 sch.ng
 
-// ni : http://www.nic.ni/
+// ni : https://www.nic.ni/
 ni
 ac.ni
 biz.ni
@@ -4697,13 +4697,13 @@ web.ni
 //      ccTLD for the Netherlands
 nl
 
-// no : http://www.norid.no/regelverk/index.en.html
+// no : https://www.norid.no/regelverk/index.en.html
 // The Norwegian registry has declined to notify us of updates. The web pages
 // referenced below are the official source of the data. There is also an
 // announce mailing list:
 // https://postlister.uninett.no/sympa/info/norid-diskusjon
 no
-// Norid generic domains : http://www.norid.no/regelverk/vedlegg-c.en.html
+// Norid generic domains : https://www.norid.no/regelverk/vedlegg-c.en.html
 fhs.no
 vgs.no
 fylkesbibl.no
@@ -4711,13 +4711,13 @@ folkebibl.no
 museum.no
 idrett.no
 priv.no
-// Non-Norid generic domains : http://www.norid.no/regelverk/vedlegg-d.en.html
+// Non-Norid generic domains : https://www.norid.no/regelverk/vedlegg-d.en.html
 mil.no
 stat.no
 dep.no
 kommune.no
 herad.no
-// no geographical names : http://www.norid.no/regelverk/vedlegg-b.en.html
+// no geographical names : https://www.norid.no/regelverk/vedlegg-b.en.html
 // counties
 aa.no
 ah.no
@@ -5464,10 +5464,10 @@ våler.østfold.no
 valer.hedmark.no
 våler.hedmark.no
 
-// np : http://www.mos.com.np/register.html
+// np : https://www.mos.com.np/register.html
 *.np
 
-// nr : http://cenpac.net.nr/dns/index.html
+// nr : https://cenpac.net.nr/dns/index.html
 // Submitted by registry <technician@cenpac.net.nr>
 nr
 biz.nr
@@ -5519,7 +5519,7 @@ onion
 // org : https://en.wikipedia.org/wiki/.org
 org
 
-// pa : http://www.nic.pa/
+// pa : https://www.nic.pa/
 // Some additional second level "domains" resolve directly as hostnames, such as
 // pannet.pa, so we add a rule for "pa".
 pa
@@ -5545,7 +5545,7 @@ org.pe
 com.pe
 net.pe
 
-// pf : http://www.gobin.info/domainname/formulaire-pf.pdf
+// pf : https://www.gobin.info/domainname/formulaire-pf.pdf
 pf
 com.pf
 org.pf
@@ -5554,7 +5554,7 @@ edu.pf
 // pg : https://en.wikipedia.org/wiki/.pg
 *.pg
 
-// ph : http://www.domains.ph/FAQ2.asp
+// ph : https://www.domains.ph/FAQ2.asp
 // Submitted by registry <jed@email.com.ph>
 ph
 com.ph
@@ -5566,7 +5566,7 @@ ngo.ph
 mil.ph
 i.ph
 
-// pk : http://pk5.pknic.net.pk/pk5/msgNamepk.PK
+// pk : https://pk5.pknic.net.pk/pk5/msgNamepk.PK
 pk
 com.pk
 net.pk
@@ -5583,13 +5583,13 @@ gop.pk
 gos.pk
 info.pk
 
-// pl http://www.dns.pl/english/index.html
+// pl https://www.dns.pl/english/index.html
 // Submitted by registry
 pl
 com.pl
 net.pl
 org.pl
-// pl functional domains (http://www.dns.pl/english/index.html)
+// pl functional domains (https://www.dns.pl/english/index.html)
 aid.pl
 agro.pl
 atm.pl
@@ -5669,7 +5669,7 @@ mup.gov.pl
 wuoz.gov.pl
 konsulat.gov.pl
 oirm.gov.pl
-// pl regional domains (http://www.dns.pl/english/index.html)
+// pl regional domains (https://www.dns.pl/english/index.html)
 augustow.pl
 babia-gora.pl
 bedzin.pl
@@ -5790,10 +5790,10 @@ zarow.pl
 zgora.pl
 zgorzelec.pl
 
-// pm : http://www.afnic.fr/medias/documents/AFNIC-naming-policy2012.pdf
+// pm : https://www.afnic.fr/medias/documents/AFNIC-naming-policy2012.pdf
 pm
 
-// pn : http://www.government.pn/PnRegistry/policies.htm
+// pn : https://www.government.pn/PnRegistry/policies.htm
 pn
 gov.pn
 co.pn
@@ -5804,7 +5804,7 @@ net.pn
 // post : https://en.wikipedia.org/wiki/.post
 post
 
-// pr : http://www.nic.pr/index.asp?f=1
+// pr : https://www.nic.pr/index.asp?f=1
 pr
 com.pr
 net.pr
@@ -5821,7 +5821,7 @@ est.pr
 prof.pr
 ac.pr
 
-// pro : http://registry.pro/get-pro
+// pro : https://registry.pro/get-pro
 pro
 aaa.pro
 aca.pro
@@ -5836,7 +5836,7 @@ med.pro
 recht.pro
 
 // ps : https://en.wikipedia.org/wiki/.ps
-// http://www.nic.ps/registration/policy.html#reg
+// https://www.nic.ps/registration/policy.html#reg
 ps
 edu.ps
 gov.ps
@@ -5846,7 +5846,7 @@ com.ps
 org.ps
 net.ps
 
-// pt : http://online.dns.pt/dns/start_dns
+// pt : https://online.dns.pt/dns/start_dns
 pt
 net.pt
 gov.pt
@@ -5866,7 +5866,7 @@ ed.pw
 go.pw
 belau.pw
 
-// py : http://www.nic.py/pautas.html#seccion_9
+// py : https://www.nic.py/pautas.html#seccion_9
 // Submitted by registry
 py
 com.py
@@ -5877,7 +5877,7 @@ mil.py
 net.py
 org.py
 
-// qa : http://domains.qa/en/
+// qa : https://domains.qa/en/
 qa
 com.qa
 edu.qa
@@ -5888,13 +5888,13 @@ net.qa
 org.qa
 sch.qa
 
-// re : http://www.afnic.re/obtenir/chartes/nommage-re/annexe-descriptifs
+// re : https://www.afnic.re/obtenir/chartes/nommage-re/annexe-descriptifs
 re
 asso.re
 com.re
 nom.re
 
-// ro : http://www.rotld.ro/
+// ro : https://www.rotld.ro/
 ro
 arts.ro
 com.ro
@@ -5931,7 +5931,7 @@ mil.rw
 net.rw
 org.rw
 
-// sa : http://www.nic.net.sa/
+// sa : https://www.nic.net.sa/
 sa
 com.sa
 net.sa
@@ -5942,7 +5942,7 @@ pub.sa
 edu.sa
 sch.sa
 
-// sb : http://www.sbnic.net.sb/
+// sb : https://www.sbnic.net.sb/
 // Submitted by registry <lee.humphries@telekom.com.sb>
 sb
 com.sb
@@ -5951,7 +5951,7 @@ gov.sb
 net.sb
 org.sb
 
-// sc : http://www.nic.sc/
+// sc : https://www.nic.sc/
 sc
 com.sc
 gov.sc
@@ -5959,7 +5959,7 @@ net.sc
 org.sc
 edu.sc
 
-// sd : http://www.isoc.sd/sudanic.isoc.sd/billing_pricing.htm
+// sd : https://www.isoc.sd/sudanic.isoc.sd/billing_pricing.htm
 // Submitted by registry <admin@isoc.sd>
 sd
 com.sd
@@ -6014,7 +6014,7 @@ x.se
 y.se
 z.se
 
-// sg : http://www.nic.net.sg/page/registration-policies-procedures-and-guidelines
+// sg : https://www.nic.net.sg/page/registration-policies-procedures-and-guidelines
 sg
 com.sg
 net.sg
@@ -6023,7 +6023,7 @@ gov.sg
 edu.sg
 per.sg
 
-// sh : http://www.nic.sh/registrar.html
+// sh : https://www.nic.sh/registrar.html
 sh
 com.sh
 net.sh
@@ -6042,7 +6042,7 @@ sj
 // list of 2nd level domains ?
 sk
 
-// sl : http://www.nic.sl
+// sl : https://www.nic.sl
 // Submitted by registry <adam@neoip.com>
 sl
 com.sl
@@ -6064,7 +6064,7 @@ org.sn
 perso.sn
 univ.sn
 
-// so : http://sonic.so/policies/
+// so : https://sonic.so/policies/
 so
 com.so
 edu.so
@@ -6086,7 +6086,7 @@ gov.ss
 net.ss
 org.ss
 
-// st : http://www.nic.st/html/policyrules/
+// st : https://www.nic.st/html/policyrules/
 st
 co.st
 com.st
@@ -6104,7 +6104,7 @@ store.st
 // su : https://en.wikipedia.org/wiki/.su
 su
 
-// sv : http://www.svnet.org.sv/niveldos.pdf
+// sv : https://www.svnet.org.sv/niveldos.pdf
 sv
 com.sv
 edu.sv
@@ -6118,7 +6118,7 @@ sx
 gov.sx
 
 // sy : https://en.wikipedia.org/wiki/.sy
-// see also: http://www.gobin.info/domainname/sy.doc
+// see also: https://www.gobin.info/domainname/sy.doc
 sy
 edu.sy
 gov.sy
@@ -6128,7 +6128,7 @@ com.sy
 org.sy
 
 // sz : https://en.wikipedia.org/wiki/.sz
-// http://www.sispa.org.sz/
+// https://www.sispa.org.sz/
 sz
 co.sz
 ac.sz
@@ -6141,14 +6141,14 @@ tc
 td
 
 // tel: https://en.wikipedia.org/wiki/.tel
-// http://www.telnic.org/
+// https://www.telnic.org/
 tel
 
 // tf : https://en.wikipedia.org/wiki/.tf
 tf
 
 // tg : https://en.wikipedia.org/wiki/.tg
-// http://www.nic.tg/
+// https://www.nic.tg/
 tg
 
 // th : https://en.wikipedia.org/wiki/.th
@@ -6162,7 +6162,7 @@ mi.th
 net.th
 or.th
 
-// tj : http://www.nic.tj/policy.html
+// tj : https://www.nic.tj/policy.html
 tj
 ac.tj
 biz.tj
@@ -6187,7 +6187,7 @@ tk
 tl
 gov.tl
 
-// tm : http://www.nic.tm/local.html
+// tm : https://www.nic.tm/local.html
 tm
 com.tm
 co.tm
@@ -6199,7 +6199,7 @@ mil.tm
 edu.tm
 
 // tn : https://en.wikipedia.org/wiki/.tn
-// http://whois.ati.tn/
+// https://whois.ati.tn/
 tn
 com.tn
 ens.tn
@@ -6262,7 +6262,7 @@ nc.tr
 // Used by government agencies of Northern Cyprus
 gov.nc.tr
 
-// tt : http://www.nic.tt/
+// tt : https://www.nic.tt/
 tt
 co.tt
 com.tt
@@ -6303,7 +6303,7 @@ club.tw
 組織.tw
 商業.tw
 
-// tz : http://www.tznic.or.tz/index.php/domains
+// tz : https://www.tznic.or.tz/index.php/domains
 // Submitted by registry <manager@tznic.or.tz>
 tz
 ac.tz
@@ -6669,7 +6669,7 @@ pvt.k12.ma.us
 chtr.k12.ma.us
 paroch.k12.ma.us
 // Merit Network, Inc. maintains the registry for =~ /(k12|cc|lib).mi.us/ and the following
-//    see also: http://domreg.merit.edu
+//    see also: https://domreg.merit.edu
 //    see also: whois -h whois.domreg.merit.edu help
 ann-arbor.mi.us
 cog.mi.us
@@ -6680,7 +6680,7 @@ mus.mi.us
 tec.mi.us
 washtenaw.mi.us
 
-// uy : http://www.nic.org.uy/
+// uy : https://www.nic.org.uy/
 uy
 com.uy
 edu.uy
@@ -6689,7 +6689,7 @@ mil.uy
 net.uy
 org.uy
 
-// uz : http://www.reg.uz/
+// uz : https://www.reg.uz/
 uz
 co.uz
 com.uz
@@ -6733,8 +6733,8 @@ web.ve
 // vg : https://en.wikipedia.org/wiki/.vg
 vg
 
-// vi : http://www.nic.vi/newdomainform.htm
-// http://www.nic.vi/Domain_Rules/body_domain_rules.html indicates some other
+// vi : https://www.nic.vi/newdomainform.htm
+// https://www.nic.vi/Domain_Rules/body_domain_rules.html indicates some other
 // TLDs are "reserved", such as edu.vi and gov.vi, but doesn't actually say they
 // are available for registration (which they do not seem to be).
 vi
@@ -6760,18 +6760,18 @@ pro.vn
 health.vn
 
 // vu : https://en.wikipedia.org/wiki/.vu
-// http://www.vunic.vu/
+// https://www.vunic.vu/
 vu
 com.vu
 edu.vu
 net.vu
 org.vu
 
-// wf : http://www.afnic.fr/medias/documents/AFNIC-naming-policy2012.pdf
+// wf : https://www.afnic.fr/medias/documents/AFNIC-naming-policy2012.pdf
 wf
 
 // ws : https://en.wikipedia.org/wiki/.ws
-// http://samoanic.ws/index.dhtml
+// https://samoanic.ws/index.dhtml
 ws
 com.ws
 net.ws
@@ -6779,7 +6779,7 @@ org.ws
 gov.ws
 edu.ws
 
-// yt : http://www.afnic.fr/medias/documents/AFNIC-naming-policy2012.pdf
+// yt : https://www.afnic.fr/medias/documents/AFNIC-naming-policy2012.pdf
 yt
 
 // IDN ccTLDs
@@ -6790,7 +6790,7 @@ yt
 // U-Label
 
 // xn--mgbaam7a8h ("Emerat", Arabic) : AE
-// http://nic.ae/english/arabicdomain/rules.jsp
+// https://nic.ae/english/arabicdomain/rules.jsp
 امارات
 
 // xn--y9a3aq ("hye", Armenian) : AM
@@ -6809,19 +6809,19 @@ yt
 
 // xn--fiqs8s ("Zhongguo/China", Chinese, Simplified) : CN
 // CNNIC
-// http://cnnic.cn/html/Dir/2005/10/11/3218.htm
+// https://cnnic.cn/html/Dir/2005/10/11/3218.htm
 中国
 
 // xn--fiqz9s ("Zhongguo/China", Chinese, Traditional) : CN
 // CNNIC
-// http://cnnic.cn/html/Dir/2005/10/11/3218.htm
+// https://cnnic.cn/html/Dir/2005/10/11/3218.htm
 中國
 
 // xn--lgbbat1ad8j ("Algeria/Al Jazair", Arabic) : DZ
 الجزائر
 
 // xn--wgbh1c ("Egypt/Masr", Arabic) : EG
-// http://www.dotmasr.eg/
+// https://www.dotmasr.eg/
 مصر
 
 // xn--e1a4c ("eu", Cyrillic) : EU
@@ -6974,7 +6974,7 @@ yt
 
 // xn--ygbi2ammx ("Falasteen", Arabic) : PS
 // The Palestinian National Internet Naming Authority (PNINA)
-// http://www.pnina.ps
+// https://www.pnina.ps
 فلسطين
 
 // xn--90a3ac ("srb", Cyrillic) : RS
@@ -6993,11 +6993,11 @@ yt
 рф
 
 // xn--wgbl6a ("Qatar", Arabic) : QA
-// http://www.ict.gov.qa/
+// https://www.ict.gov.qa/
 قطر
 
 // xn--mgberp4a5d4ar ("AlSaudiah", Arabic) : SA
-// http://www.nic.net.sa/
+// https://www.nic.net.sa/
 السعودية
 
 // xn--mgberp4a5d4a87g ("AlSaudiah", Arabic, variant)  : SA
@@ -7026,7 +7026,7 @@ yt
 سوريا
 
 // xn--o3cw4h ("Thai", Thai) : TH
-// http://www.thnic.co.th
+// https://www.thnic.co.th
 ไทย
 ศึกษา.ไทย
 ธุรกิจ.ไทย
@@ -7036,15 +7036,15 @@ yt
 องค์กร.ไทย
 
 // xn--pgbs0dh ("Tunisia", Arabic) : TN
-// http://nic.tn
+// https://nic.tn
 تونس
 
 // xn--kpry57d ("Taiwan", Chinese, Traditional) : TW
-// http://www.twnic.net/english/dn/dn_07a.htm
+// https://www.twnic.net/english/dn/dn_07a.htm
 台灣
 
 // xn--kprw13d ("Taiwan", Chinese, Simplified) : TW
-// http://www.twnic.net/english/dn/dn_07a.htm
+// https://www.twnic.net/english/dn/dn_07a.htm
 台湾
 
 // xn--nnx388a ("Taiwan", Chinese, variant) : TW
@@ -7056,10 +7056,10 @@ yt
 // xn--mgb2ddes ("AlYemen", Arabic) : YE
 اليمن
 
-// xxx : http://icmregistry.com
+// xxx : https://icmregistry.com
 xxx
 
-// ye : http://www.y.net.ye/services/domain_name.htm
+// ye : https://www.y.net.ye/services/domain_name.htm
 *.ye
 
 // za : https://www.zadna.org.za/content/page/domain-information/
@@ -10675,11 +10675,11 @@ adobeaemcloud.net
 // Submitted by Przemyslaw Plewa <it-admin@domena.pl>
 beep.pl
 
-// alboto.ca : http://alboto.ca
+// alboto.ca : https://alboto.ca
 // Submitted by Anton Avramov <avramov@alboto.ca>
 barsy.ca
 
-// Alces Software Ltd : http://alces-software.com
+// Alces Software Ltd : https://alces-software.com
 // Submitted by Mark J. Titorenko <mark.titorenko@alces-software.com>
 *.compute.estate
 *.alces.network
@@ -10821,7 +10821,7 @@ user.aseinet.ne.jp
 gv.vc
 d.gv.vc
 
-// Asociación Amigos de la Informática "Euskalamiga" : http://encounter.eus/
+// Asociación Amigos de la Informática "Euskalamiga" : https://encounter.eus/
 // Submitted by Hector Martin <marcan@euskalencounter.org>
 user.party.eus
 
@@ -10832,7 +10832,7 @@ poivron.org
 potager.org
 sweetpepper.org
 
-// ASUSTOR Inc. : http://www.asustor.com
+// ASUSTOR Inc. : https://www.asustor.com
 // Submitted by Vincent Tseng <vincenttseng@asustor.com>
 myasustor.com
 
@@ -10868,7 +10868,7 @@ app.banzaicloud.io
 // Submitted by Adrian <adrian@betainabox.com>
 betainabox.com
 
-// BinaryLane : http://www.binarylane.com
+// BinaryLane : https://www.binarylane.com
 // Submitted by Nathan O'Sullivan <nathan@mammoth.com.au>
 bnr.la
 
@@ -10913,7 +10913,7 @@ carrd.co
 crd.co
 uwu.ai
 
-// CentralNic : http://www.centralnic.com/names/domains
+// CentralNic : https://www.centralnic.com/names/domains
 // Submitted by registry <gavin.brown@centralnic.com>
 ae.org
 br.com
@@ -10950,16 +10950,16 @@ uy.com
 // Submitted by Gavin Brown <gavin.brown@centralnic.com>
 africa.com
 
-// iDOT Services Limited : http://www.domain.gr.com
+// iDOT Services Limited : https://www.domain.gr.com
 // Submitted by Gavin Brown <gavin.brown@centralnic.com>
 gr.com
 
-// Radix FZC : http://domains.in.net
+// Radix FZC : https://domains.in.net
 // Submitted by Gavin Brown <gavin.brown@centralnic.com>
 in.net
 web.in
 
-// US REGISTRY LLC : http://us.org
+// US REGISTRY LLC : https://us.org
 // Submitted by Gavin Brown <gavin.brown@centralnic.com>
 us.org
 
@@ -10982,7 +10982,7 @@ radio.fm
 co.ro
 shop.ro
 
-// c.la : http://www.c.la/
+// c.la : https://www.c.la/
 c.la
 
 // certmgr.org : https://certmgr.org
@@ -10998,7 +10998,7 @@ xenapponazure.com
 discourse.group
 discourse.team
 
-// ClearVox : http://www.clearvox.nl/
+// ClearVox : https://www.clearvox.nl/
 // Submitted by Leon Rowland <leon@clearvox.nl>
 virtueeldomein.nl
 
@@ -11047,18 +11047,18 @@ workers.dev
 // Submitted by Patrick Nielsen <patrick@clovyr.io>
 wnext.app
 
-// co.ca : http://registry.co.ca/
+// co.ca : https://registry.co.ca/
 co.ca
 
 // Co & Co : https://co-co.nl/
 // Submitted by Govert Versluis <govert@co-co.nl>
 *.otap.co
 
-// i-registry s.r.o. : http://www.i-registry.cz/
+// i-registry s.r.o. : https://www.i-registry.cz/
 // Submitted by Martin Semrad <semrad@i-registry.cz>
 co.cz
 
-// CDN77.com : http://www.cdn77.com
+// CDN77.com : https://www.cdn77.com
 // Submitted by Jan Krpes <jan.krpes@cdn77.com>
 c.cdn77.org
 cdn77-ssl.net
@@ -11066,7 +11066,7 @@ r.cdn77.net
 rsc.cdn77.org
 ssl.origin.cdn77-secure.org
 
-// Cloud DNS Ltd : http://www.cloudns.net
+// Cloud DNS Ltd : https://www.cloudns.net
 // Submitted by Aleksander Hristov <noc@cloudns.net>
 cloudns.asia
 cloudns.biz
@@ -11106,7 +11106,7 @@ int.ru
 mil.ru
 test.ru
 
-// COSIMO GmbH : http://www.cosimo.de
+// COSIMO GmbH : https://www.cosimo.de
 // Submitted by Rene Marticke <rmarticke@cosimo.de>
 dyn.cosidns.de
 dynamisches-dns.de
@@ -11118,7 +11118,7 @@ feste-ip.net
 knx-server.net
 static-access.net
 
-// Craynic, s.r.o. : http://www.craynic.com/
+// Craynic, s.r.o. : https://www.craynic.com/
 // Submitted by Ales Krajnik <ales.krajnik@craynic.com>
 realm.cz
 
@@ -11167,7 +11167,7 @@ mydatto.com
 dattolocal.net
 mydatto.net
 
-// Dansk.net : http://www.dansk.net/
+// Dansk.net : https://www.dansk.net/
 // Submitted by Anani Voule <digital@digital.co.dk>
 biz.dk
 co.dk
@@ -11217,11 +11217,11 @@ shop.th
 // Submitted by Paul Fang <mis@draytek.com>
 drayddns.com
 
-// DreamHost : http://www.dreamhost.com/
+// DreamHost : https://www.dreamhost.com/
 // Submitted by Andrew Farmer <andrew.farmer@dreamhost.com>
 dreamhosters.com
 
-// Drobo : http://www.drobo.com/
+// Drobo : https://www.drobo.com/
 // Submitted by Ricardo Padilha <rpadilha@drobo.com>
 mydrobo.com
 
@@ -11230,19 +11230,19 @@ mydrobo.com
 drud.io
 drud.us
 
-// DuckDNS : http://www.duckdns.org/
+// DuckDNS : https://www.duckdns.org/
 // Submitted by Richard Harper <richard@duckdns.org>
 duckdns.org
 
 // bitbridge.net : Submitted by Craig Welch, abeliidev@gmail.com
 bitbridge.net
 
-// dy.fi : http://dy.fi/
+// dy.fi : https://dy.fi/
 // Submitted by Heikki Hannikainen <hessu@hes.iki.fi>
 dy.fi
 tunk.org
 
-// DynDNS.com : http://www.dyndns.com/services/dns/dyndns/
+// DynDNS.com : https://www.dyndns.com/services/dns/dyndns/
 dyndns-at-home.com
 dyndns-at-work.com
 dyndns-blog.com
@@ -11535,7 +11535,7 @@ dyn.home-webserver.de
 myhome-server.de
 ddnss.org
 
-// Definima : http://www.definima.com/
+// Definima : https://www.definima.com/
 // Submitted by Maxence Bitterli <maxence@definima.com>
 definima.net
 definima.io
@@ -11585,7 +11585,7 @@ mytuleap.com
 onred.one
 staging.onred.one
 
-// Enonic : http://enonic.com/
+// Enonic : https://enonic.com/
 // Submitted by Erik Kaareng-Sunde <esu@enonic.com>
 enonic.io
 customer.enonic.io
@@ -11649,7 +11649,7 @@ tr.eu.org
 uk.eu.org
 us.eu.org
 
-// Evennode : http://www.evennode.com/
+// Evennode : https://www.evennode.com/
 // Submitted by Michal Kralik <support@evennode.com>
 eu-1.evennode.com
 eu-2.evennode.com
@@ -11752,12 +11752,12 @@ vladikavkaz.su
 vladimir.su
 vologda.su
 
-// Fancy Bits, LLC : http://getchannels.com
+// Fancy Bits, LLC : https://getchannels.com
 // Submitted by Aman Gupta <aman@getchannels.com>
 channelsdvr.net
 u.channelsdvr.net
 
-// Fastly Inc. : http://www.fastly.com/
+// Fastly Inc. : https://www.fastly.com/
 // Submitted by Fastly Security <security@fastly.com>
 fastly-terrarium.com
 fastlylb.net
@@ -11829,7 +11829,7 @@ flynnhosting.net
 // Submitted by Frederik Braun <fb@frederik-braun.com>
 0e.vc
 
-// Freebox : http://www.freebox.fr
+// Freebox : https://www.freebox.fr
 // Submitted by Romain Fliedel <rfliedel@freebox.fr>
 freebox-os.com
 freeboxos.com
@@ -11846,7 +11846,7 @@ freedesktop.org
 // Submitted by Daniel A. Maierhofer <vorstand@funkfeuer.at>
 wien.funkfeuer.at
 
-// Futureweb OG : http://www.futureweb.at
+// Futureweb OG : https://www.futureweb.at
 // Submitted by Andreas Schnederle-Wagner <schnederle@futureweb.at>
 *.futurecms.at
 *.ex.futurecms.at
@@ -11910,7 +11910,7 @@ homeoffice.gov.uk
 // Submitted by Zoltan Egresi <egresi@globehosting.com>
 ro.im
 
-// GoIP DNS Services : http://www.goip.de
+// GoIP DNS Services : https://www.goip.de
 // Submitted by Christian Poulter <milchstrasse@goip.de>
 goip.de
 
@@ -12014,7 +12014,7 @@ graphox.us
 // Submitted by Tyler Todd <noc@nova53.net>
 awsmppl.com
 
-// Hakaran group: http://hakaran.cz
+// Hakaran group: https://hakaran.cz
 // Submited by Arseniy Sokolov <security@hakaran.cz>
 fin.ci
 free.hr
@@ -12074,7 +12074,7 @@ hostyhosting.io
 // Submitted by Eero Häkkinen <Eero+psl@Häkkinen.fi>
 häkkinen.fi
 
-// Ici la Lune : http://www.icilalune.com/
+// Ici la Lune : https://www.icilalune.com/
 // Submitted by Simon Morvan <simon@icilalune.com>
 *.moonscale.io
 moonscale.net
@@ -12096,15 +12096,15 @@ in-vpn.de
 in-vpn.net
 in-vpn.org
 
-// info.at : http://www.info.at/
+// info.at : https://www.info.at/
 biz.at
 info.at
 
-// info.cx : http://info.cx
+// info.cx : https://info.cx
 // Submitted by Jacob Slater <whois@igloo.to>
 info.cx
 
-// Interlegis : http://www.interlegis.leg.br
+// Interlegis : https://www.interlegis.leg.br
 // Submitted by Gabriel Ferreira <registrobr@interlegis.leg.br>
 ac.leg.br
 al.leg.br
@@ -12153,7 +12153,7 @@ schulserver.de
 test-iserv.de
 iserv.dev
 
-// I-O DATA DEVICE, INC. : http://www.iodata.com/
+// I-O DATA DEVICE, INC. : https://www.iodata.com/
 // Submitted by Yuji Minagawa <domains-admin@iodata.jp>
 iobb.net
 
@@ -12196,11 +12196,11 @@ myjino.ru
 *.triton.zone
 *.cns.joyent.com
 
-// JS.ORG : http://dns.js.org
+// JS.ORG : https://dns.js.org
 // Submitted by Stefan Keim <admin@js.org>
 js.org
 
-// KaasHosting : http://www.kaashosting.nl/
+// KaasHosting : https://www.kaashosting.nl/
 // Submitted by Wouter Bakker <hostmaster@kaashosting.nl>
 kaas.gg
 khplay.nl
@@ -12214,7 +12214,7 @@ keymachine.de
 kinghost.net
 uni5.net
 
-// KnightPoint Systems, LLC : http://www.knightpoint.com/
+// KnightPoint Systems, LLC : https://www.knightpoint.com/
 // Submitted by Roy Keene <rkeene@knightpoint.com>
 knightpoint.systems
 
@@ -12222,7 +12222,7 @@ knightpoint.systems
 // Submitted by DisposaBoy <security@oya.to>
 oya.to
 
-// .KRD : http://nic.krd/data/krd/Registration%20Policy.pdf
+// .KRD : https://nic.krd/data/krd/Registration%20Policy.pdf
 co.krd
 edu.krd
 
@@ -12271,7 +12271,7 @@ members.linode.com
 *.nodebalancer.linode.com
 *.linodeobjects.com
 
-// LiquidNet Ltd : http://www.liquidnetlimited.com/
+// LiquidNet Ltd : https://www.liquidnetlimited.com/
 // Submitted by Victor Velchev <admin@liquidnetlimited.com>
 we.bs
 
@@ -12367,17 +12367,17 @@ usr.cloud.muni.cz
 meteorapp.com
 eu.meteorapp.com
 
-// Michau Enterprises Limited : http://www.co.pl/
+// Michau Enterprises Limited : https://www.co.pl/
 co.pl
 
-// Microsoft Corporation : http://microsoft.com
+// Microsoft Corporation : https://microsoft.com
 // Submitted by Mostafa Elzeiny <moelzein@microsoft.com>
 *.azurecontainer.io
 azurewebsites.net
 azure-mobile.net
 cloudapp.net
 
-// minion.systems : http://minion.systems
+// minion.systems : https://minion.systems
 // Submitted by Robert Böttinger <r@minion.systems>
 csx.cc
 
@@ -12590,7 +12590,7 @@ nodum.io
 // Submitted by Piotr Zduniak <piotr@nucleos.com>
 pcloud.host
 
-// NYC.mn : http://www.information.nyc.mn
+// NYC.mn : https://www.information.nyc.mn
 // Submitted by Matthew Brown <mattbrown@nyc.mn>
 nyc.mn
 
@@ -12668,7 +12668,7 @@ cloudycluster.net
 // Submitted by Vicary Archangel <vicary@omniwe.com>
 omniwe.site
 
-// One Fold Media : http://www.onefoldmedia.com/
+// One Fold Media : https://www.onefoldmedia.com/
 // Submitted by Eddie Jones <eddie@onefoldmedia.com>
 nid.io
 
@@ -12676,7 +12676,7 @@ nid.io
 // Submitted by Alexander Varwijk <security@getopensocial.com>
 opensocial.site
 
-// OpenCraft GmbH : http://opencraft.com/
+// OpenCraft GmbH : https://opencraft.com/
 // Submitted by Sven Marnach <sven@opencraft.com>
 opencraft.hosting
 
@@ -12692,7 +12692,7 @@ skygearapp.com
 // Submitted by Duarte Santos <domain-admin@outsystemscloud.com>
 outsystemscloud.com
 
-// OwnProvider GmbH: http://www.ownprovider.com
+// OwnProvider GmbH: https://www.ownprovider.com
 // Submitted by Jan Moennich <jan.moennich@ownprovider.com>
 ownprovider.com
 own.pm
@@ -12701,7 +12701,7 @@ own.pm
 // Submitted by Dean Sheather <dean@deansheather.com>
 *.owo.codes
 
-// OX : http://www.ox.rs
+// OX : https://www.ox.rs
 // Submitted by Adam Grand <webmaster@mail.ox.rs>
 ox.rs
 
@@ -12741,7 +12741,7 @@ zakopane.pl
 pantheonsite.io
 gotpantheon.com
 
-// Peplink | Pepwave : http://peplink.com/
+// Peplink | Pepwave : https://peplink.com/
 // Submitted by Steve Leung <steveleung@peplink.com>
 mypep.link
 
@@ -12777,7 +12777,7 @@ pleskns.com
 // Submitted by Maximilian Schieder <maxi@zeug.co>
 dyn53.io
 
-// Positive Codes Technology Company : http://co.bn/faq.html
+// Positive Codes Technology Company : https://co.bn/faq.html
 // Submitted by Zulfais <pc@co.bn>
 co.bn
 
@@ -12785,7 +12785,7 @@ co.bn
 // Submitted by Sarah Newman <owner@prgmr.com>
 xen.prgmr.com
 
-// priv.at : http://www.nic.priv.at/
+// priv.at : https://www.nic.priv.at/
 // Submitted by registry <lendl@nic.at>
 priv.at
 
@@ -12797,7 +12797,7 @@ prvcy.page
 // Submitted by Michael Burns <noc@protocol.ai>
 *.dweb.link
 
-// Protonet GmbH : http://protonet.io
+// Protonet GmbH : https://protonet.io
 // Submitted by Martin Meier <admin@protonet.io>
 protonet.io
 
@@ -12845,7 +12845,7 @@ myqnapcloud.com
 // Submitted by Patrick Linehan <plinehan@quip.com>
 *.quipelements.com
 
-// Qutheory LLC : http://qutheory.io
+// Qutheory LLC : https://qutheory.io
 // Submitted by Jonas Schwartz <jonas@qutheory.io>
 vapor.cloud
 vaporcloud.io
@@ -12892,13 +12892,13 @@ devices.resinstaging.io
 // Submitted by Chris Kastorff <info@rethinkdb.com>
 hzc.io
 
-// Revitalised Limited : http://www.revitalised.co.uk
+// Revitalised Limited : https://www.revitalised.co.uk
 // Submitted by Jack Price <jack@revitalised.co.uk>
 wellbeingzone.eu
 ptplus.fit
 wellbeingzone.co.uk
 
-// Rochester Institute of Technology : http://www.rit.edu/
+// Rochester Institute of Technology : https://www.rit.edu/
 // Submitted by Jennifer Herting <jchits@rit.edu>
 git-pages.rit.edu
 
@@ -12919,7 +12919,7 @@ schokokeks.net
 // Submitted by Martin Ellis <martin.ellis@gov.scot>
 gov.scot
 
-// Scry Security : http://www.scrysec.com
+// Scry Security : https://www.scrysec.com
 // Submitted by Shante Adam <shante@skyhat.io>
 scrysec.com
 
@@ -12944,7 +12944,7 @@ seidat.net
 // Submitted by Felix Mönckemeyer <f.moenckemeyer@senseering.de>
 senseering.net
 
-// Service Online LLC : http://drs.ua/
+// Service Online LLC : https://drs.ua/
 // Submitted by Serhii Bulakh <support@drs.ua>
 biz.ua
 co.ua
@@ -12954,7 +12954,7 @@ pp.ua
 // Submitted by Adam Jimenez <adam@shiftcreate.com>
 shiftedit.io
 
-// Shopblocks : http://www.shopblocks.com/
+// Shopblocks : https://www.shopblocks.com/
 // Submitted by Alex Bowers <alex@shopblocks.com>
 myshopblocks.com
 
@@ -12970,7 +12970,7 @@ shopware.store
 // Submitted by Oliver Graebner <security@mo-siemens.io>
 mo-siemens.io
 
-// SinaAppEngine : http://sae.sina.com.cn/
+// SinaAppEngine : https://sae.sina.com.cn/
 // Submitted by SinaAppEngine <saesupport@sinacloud.com>
 1kapp.com
 appchizi.com
@@ -12982,7 +12982,7 @@ vipsinaapp.com
 // Submitted by Skylar Challand <support@siteleaf.com>
 siteleaf.net
 
-// Skyhat : http://www.skyhat.io
+// Skyhat : https://www.skyhat.io
 // Submitted by Shante Adam <shante@skyhat.io>
 bounty-full.com
 alpha.bounty-full.com
@@ -13027,7 +13027,7 @@ api.stdlib.com
 // Submitted by Philip Hutchins <hostmaster@storj.io>
 storj.farm
 
-// Studenten Net Twente : http://www.snt.utwente.nl/
+// Studenten Net Twente : https://www.snt.utwente.nl/
 // Submitted by Silke Hofstra <syscom@snt.utwente.nl>
 utwente.io
 
@@ -13036,7 +13036,7 @@ utwente.io
 soc.srcf.net
 user.srcf.net
 
-// Sub 6 Limited: http://www.sub6.com
+// Sub 6 Limited: https://www.sub6.com
 // Submitted by Dan Miller <dm@sub6.com>
 temp-dns.com
 
@@ -13072,7 +13072,7 @@ synology.me
 vpnplus.to
 direct.quickconnect.to
 
-// TAIFUN Software AG : http://taifun-software.de
+// TAIFUN Software AG : https://taifun-software.de
 // Submitted by Bjoern Henke <dev-server@taifun-software.de>
 taifun-dns.de
 
@@ -13112,7 +13112,7 @@ cust.testing.thingdust.io
 arvo.network
 azimuth.network
 
-// TownNews.com : http://www.townnews.com
+// TownNews.com : https://www.townnews.com
 // Submitted by Dustin Ward <dward@townnews.com>
 bloxcms.com
 townnews-staging.com
@@ -13145,7 +13145,7 @@ lima.zone
 *.transurl.eu
 *.transurl.nl
 
-// TuxFamily : http://tuxfamily.org
+// TuxFamily : https://tuxfamily.org
 // Submitted by TuxFamily administrators <adm@staff.tuxfamily.org>
 tuxfamily.org
 
@@ -13170,7 +13170,7 @@ synology-ds.de
 uber.space
 *.uberspace.de
 
-// UDR Limited : http://www.udr.hk.com
+// UDR Limited : https://www.udr.hk.com
 // Submitted by registry <hostmaster@udr.hk.com>
 hk.com
 hk.org
@@ -13191,7 +13191,7 @@ dnsupdate.info
 // Submitted by Ed Moore <Ed.Moore@lib.de.us>
 lib.de.us
 
-// VeryPositive SIA : http://very.lv
+// VeryPositive SIA : https://very.lv
 // Submitted by Danko Aleksejevs <danko@very.lv>
 2038.io
 
@@ -13201,7 +13201,7 @@ vercel.app
 vercel.dev
 now.sh
 
-// Viprinet Europe GmbH : http://www.viprinet.com
+// Viprinet Europe GmbH : https://www.viprinet.com
 // Submitted by Simon Kissel <hostmaster@viprinet.com>
 router.management
 
@@ -13301,7 +13301,7 @@ diskussionsbereich.de
 community-pro.net
 meinforum.net
 
-// www.com.vc : http://www.com.vc
+// www.com.vc : https://www.com.vc
 // Submitted by Li Hui <lihui@sinopub.com>
 cn.vu
 
@@ -13309,7 +13309,7 @@ cn.vu
 // Submitted by Julian Uphoff <publicsuffixlist@xenoncloud.net>
 half.host
 
-// XnBay Technology : http://www.xnbay.com/
+// XnBay Technology : https://www.xnbay.com/
 // Submitted by XnBay Developer <developer.xncloud@gmail.com>
 xnbay.com
 u2.xnbay.com
@@ -13350,7 +13350,7 @@ ybo.trade
 nohost.me
 noho.st
 
-// ZaNiC : http://www.za.net/
+// ZaNiC : https://www.za.net/
 // Submitted by registry <hostmaster@nic.za.net>
 za.net
 za.org

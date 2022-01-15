@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
     Rouge aims to a be a simple, easy-to-extend drop-in replacement
     for pygments.
   desc
-  s.homepage = "http://rouge.jneen.net/"
+  s.homepage = "https://rouge.jneen.net/"
   s.files = Dir['Gemfile', 'LICENSE', 'rouge.gemspec', 'lib/**/*.rb', 'lib/**/*.yml', 'bin/rougify', 'lib/rouge/demos/*']
   s.executables = %w(rougify)
   s.licenses = ['MIT', 'BSD-2-Clause']

@@ -4,7 +4,7 @@ Long Haul is a minimal jekyll theme built with SASS / GULP / BROWSERSYNC / AUTOP
 
 If you really enjoy Long Haul and want to give me credit somewhere on the internet send or tweet out your experience with Long Haul and tag me [@brianmaierjr](https://twitter.com/brianmaierjr).
 
-#### [View Demo](http://brianmaierjr.com/long-haul)
+#### [View Demo](https://brianmaierjr.com/long-haul)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/bd29f13b-3754-46d7-9a39-48db2e174b99/deploy-status)](https://app.netlify.com/sites/long-haul/deploys)
 
@@ -26,10 +26,10 @@ If you really enjoy Long Haul and want to give me credit somewhere on the intern
 
 ## Setup
 
-1. [Install Jekyll](http://jekyllrb.com)
-2. Fork the [Long Haul repo](http://github.com/brianmaierjr/long-haul)
+1. [Install Jekyll](https://jekyllrb.com)
+2. Fork the [Long Haul repo](https://github.com/brianmaierjr/long-haul)
 3. Clone it
-4. [Install Bundler](http://bundler.io/)
+4. [Install Bundler](https://bundler.io/)
 5. Run `bundle install`
 6. Install gulp dependencies by running `npm install`
 7. Run Jekyll and watch files by running `bundle exec gulp`

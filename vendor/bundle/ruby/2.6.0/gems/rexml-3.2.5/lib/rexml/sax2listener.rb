@@ -65,10 +65,10 @@ module REXML
     #  ["%", "YN", "Yes"]
     #  <!ENTITY WhatHeSaid "He said %YN;">
     #  ["WhatHeSaid", "He said %YN;"]
-    #  <!ENTITY open-hatch SYSTEM "http://www.textuality.com/boilerplate/OpenHatch.xml">
-    #  ["open-hatch", "SYSTEM", "http://www.textuality.com/boilerplate/OpenHatch.xml"]
-    #  <!ENTITY open-hatch PUBLIC "-//Textuality//TEXT Standard open-hatch boilerplate//EN" "http://www.textuality.com/boilerplate/OpenHatch.xml">
-    # ["open-hatch", "PUBLIC", "-//Textuality//TEXT Standard open-hatch boilerplate//EN", "http://www.textuality.com/boilerplate/OpenHatch.xml"]
+    #  <!ENTITY open-hatch SYSTEM "https://www.textuality.com/boilerplate/OpenHatch.xml">
+    #  ["open-hatch", "SYSTEM", "https://www.textuality.com/boilerplate/OpenHatch.xml"]
+    #  <!ENTITY open-hatch PUBLIC "-//Textuality//TEXT Standard open-hatch boilerplate//EN" "https://www.textuality.com/boilerplate/OpenHatch.xml">
+    # ["open-hatch", "PUBLIC", "-//Textuality//TEXT Standard open-hatch boilerplate//EN", "https://www.textuality.com/boilerplate/OpenHatch.xml"]
     #  <!ENTITY hatch-pic SYSTEM "../grafix/OpenHatch.gif" NDATA gif>
     #  ["hatch-pic", "SYSTEM", "../grafix/OpenHatch.gif", "NDATA", "gif"]
     def entitydecl declaration

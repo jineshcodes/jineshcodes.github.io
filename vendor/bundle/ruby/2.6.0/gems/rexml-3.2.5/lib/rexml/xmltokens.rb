@@ -3,7 +3,7 @@ module REXML
   # Defines a number of tokens used for parsing XML.  Not for general
   # consumption.
   module XMLTokens
-    # From http://www.w3.org/TR/REC-xml/#sec-common-syn
+    # From https://www.w3.org/TR/REC-xml/#sec-common-syn
     #
     #   [4] NameStartChar ::=
     #         ":" |
@@ -40,7 +40,7 @@ module REXML
       "\\uFDF0-\\uFFFD",
       "\\u{10000}-\\u{EFFFF}",
     ]
-    # From http://www.w3.org/TR/REC-xml/#sec-common-syn
+    # From https://www.w3.org/TR/REC-xml/#sec-common-syn
     #
     #   [4a] NameChar ::=
     #      NameStartChar |
@@ -62,11 +62,11 @@ module REXML
     NAME_CHAR = "[#{name_chars.join('')}]"
     NAMECHAR = NAME_CHAR # deprecated. Use NAME_CHAR instead.
 
-    # From http://www.w3.org/TR/xml-names11/#NT-NCName
+    # From https://www.w3.org/TR/xml-names11/#NT-NCName
     #
     #   [6] NCNameStartChar ::= NameStartChar - ':'
     ncname_start_chars = name_start_chars - [":"]
-    # From http://www.w3.org/TR/xml-names11/#NT-NCName
+    # From https://www.w3.org/TR/xml-names11/#NT-NCName
     #
     #   [5] NCNameChar ::= NameChar - ':'
     ncname_chars = name_chars - [":"]
