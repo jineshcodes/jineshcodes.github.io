@@ -5,8 +5,6 @@ date:   2022-01-13
 image: amazon-overlay.jpg
 description: This article contains tips and resources that will help you prepare for the Amazon Leadership Principle interview questions
 comments: true
-categories:
-	- Interview
 ---
 
 <p class="intro"><span class="dropcap">O</span>ne of the major differences between interviewing at Amazon and other FAANG companies is their approach to the behavioural interview.</p>
