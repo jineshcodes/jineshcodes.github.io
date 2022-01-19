@@ -29,5 +29,5 @@ social:
 
 google_analytics: "G-9H73HF5CNB"
 
-#disqus:
-#    shortname: brianmaierjr
+disqus:
+    shortname: jinesh-codes

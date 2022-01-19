@@ -4,9 +4,14 @@ title:  "Ace the Amazon Leadership Principle interview questions"
 date:   2022-01-13
 image: amazon-overlay.jpg
 description: This article contains tips and resources that will help you prepare for the Amazon Leadership Principle interview questions
+comments: true
+categories:
+	- Interview
 ---
 
-<p class="intro"><span class="dropcap">O</span>ne of the major differences between interviewing at Amazon and other FAANG companies is their approach to the behavioural interview.</p><p>While other companies prefer to have a dedicated behavioural round (For ex. Googlyness for google interview.), amazon makes sure to include a behavioural component as a part of every onsite round. It’s just one of the things that makes Amazon peculiar. These questions are generally about discussing a situation that demonstrates a specific leadership principle in action.</p>
+<p class="intro"><span class="dropcap">O</span>ne of the major differences between interviewing at Amazon and other FAANG companies is their approach to the behavioural interview.</p>
+
+<p>While other companies prefer to have a dedicated behavioural round (For ex. Googlyness for google interview.), amazon makes sure to include a behavioural component as a part of every onsite round. It’s just one of the things that makes Amazon peculiar. These questions are generally about discussing a situation that demonstrates a specific leadership principle in action.</p>
 
 I had recently interviewed for Amazon and one of the things that made me stand out as a great candidate was my performance on Behavioural and Leadership principle questions. I have decided to prepare this Guide on How to Ace the Leadership principle interview questions. 
 
