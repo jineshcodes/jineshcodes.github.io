@@ -20,7 +20,7 @@ title: Contact Long Haul
     <input type="submit" value="Send" class="button">
   </form>
 </div> -->
-<div>
+</div>
 <form
   action="https://formspree.io/f/xgedonzb"
   method="POST"
