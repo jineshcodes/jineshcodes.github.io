@@ -21,7 +21,7 @@ navigation:
   - title: Contact
     url: /contact
   - title: Interview-relared
-    url: /interview.html
+    url: /interview
 
 social:
   github: jineshcodes
