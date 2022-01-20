@@ -10,19 +10,21 @@ layout: default
   <header>
     <h1 class="postTitle">{{ page.title }}</h1>
     <p class="meta">{{ page.date | date: '%B %d, %Y' }} | <span class="time">{{ page.content | number_of_words | divided_by:200 }}</span> Minute Read</p>
-    <p> Categories:
+    
     <div class="post-categories">
-      {% if post %}
-        {% assign categories = post.categories %}
-      {% else %}
-        {% assign categories = page.categories %}
-      {% endif %}
-      {% for category in categories %}
-      <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
-      {% unless forloop.last %}&nbsp;{% endunless %}
-      {% endfor %}
+      <p> Categories:
+        {% if post %}
+          {% assign categories = post.categories %}
+        {% else %}
+          {% assign categories = page.categories %}
+        {% endif %}
+        {% for category in categories %}
+        <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+        {% unless forloop.last %}&nbsp;{% endunless %}
+        {% endfor %}
+      </p>
     </div>
-    </p>
+    
   </header>
 
   {{ content }}
