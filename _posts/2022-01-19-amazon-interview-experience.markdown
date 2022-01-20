@@ -101,6 +101,7 @@ Make sure you use suitable design patterns to make your design adaptable and eas
 This additional round was conducted to test me a bit more on DSA. The expected time for this was 1 hour, and the interviewer was expected to ask 2 DSA questions. By this time, I had already cleared on-sites of multiple different companies, so I was pretty confident.
 
 Q1:A simple DP similar to [Leetcode: Climbing stairs](https://leetcode.com/problems/climbing-stairs/)
+
 This was basically a Fibonacci type problem, and I solved this in just under 5 mins. 
 
 Q2: Find the order in which a compiler will build given files. If the two files are not dependent on each other, the order does not matter. Before compiling a file, all its dependent modules should be compiled.

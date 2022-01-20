@@ -9,7 +9,7 @@ title: Contact Long Haul
     <p class="intro">This is an exampl    Contact page. If you want to make changes then do so in the <code>contact.html</code> file.</p>
     <p>The form is provided by <a href="https://formspree.io/">Formspree.</a> Follow the directions on their site to set up the form for use.</p>
     <p>If you have questions about the theme feel free to <a href="mailto:brimaidesigns@gmail.com">email me</a> or create an issue on <a href="https://github.com/brianmaierjr/long-haul">GitHub</a>. Enjoy!</p>
-  </div>
+  <!-- </div>
   <form action="https://formspree.io/your@mail.com" method="POST">
     <label for="name">Name</label>
     <input type="text" id="name" name="name" class="full-width"><br>
@@ -19,4 +19,21 @@ title: Contact Long Haul
     <textarea name="message" id="message" cols="30" rows="10" class="full-width"></textarea><br>
     <input type="submit" value="Send" class="button">
   </form>
+</div> -->
+<div>
+<form
+  action="https://formspree.io/f/xgedonzb"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
 </div>
