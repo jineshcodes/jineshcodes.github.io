@@ -25,15 +25,13 @@ title: Contact Long Haul
   action="https://formspree.io/f/xgedonzb"
   method="POST"
 >
-  <label>
-    Your email:
-    <input type="email" name="_replyto">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
+  <label for="name">Name</label>
+    <input type="text" id="name" name="name" class="full-width"><br>
+    <label for="email">Email Address</label>
+    <input type="email" id="email" name="_replyto" class="full-width"><br>
+    <label for="message">Message</label>
+    <textarea name="message" id="message" cols="30" rows="10" class="full-width"></textarea><br>
   <!-- your other form fields go here -->
-  <button type="submit">Send</button>
+   <input type="submit" value="Send" class="button">
 </form>
 </div>
