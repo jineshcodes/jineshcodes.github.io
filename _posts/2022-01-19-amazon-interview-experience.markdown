@@ -5,6 +5,7 @@ date:   2022-01-19
 image: Amazon_interview.jpg
 description: I recently appeared for an SDE 2 amazon interview, and this article will document my experience.
 comments: true
+categories: [Interview, Amazon]
 ---
 
 I recently appeared for an SDE 2 amazon interview, and this article will document my experience. The entire process took about three months, from the day the recruiter contacted me to the time I got the offer. 
