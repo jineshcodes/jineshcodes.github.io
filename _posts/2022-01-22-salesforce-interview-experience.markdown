@@ -2,7 +2,7 @@
 layout: post
 title: "Salesforce MTS Interview Experience"
 date:   2022-01-22
-image: Amazon_interview.jpg
+image: Salesforce_Interview.jpg
 description: I recently appeared for a Salesforce MTS interview, and this article will document my experience.
 comments: true
 categories: [Interview, Salesforce]
@@ -71,6 +71,6 @@ I had recently solved this problem as a part of an Onsite interview with another
 
 Overall, all the interview rounds went very well.
 
-*[3 days after the interviews]* The recruiter offered me an offer. I did not accept the offer in the end as I was keen to accept an offer from another company.
+*[3 days after the interviews]* The recruiter shared me an offer. I did not accept the offer in the end as I was keen to accept an offer from another company.
 
 Feel free to read other by me related to interview prep and experience on [jinesh.codes/interview](jinesh.codes/interview)
