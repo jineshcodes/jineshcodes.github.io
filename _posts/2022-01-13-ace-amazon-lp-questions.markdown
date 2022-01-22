@@ -5,7 +5,6 @@ date:   2022-01-13
 image: amazon-overlay.jpg
 description: This article contains tips and resources that will help you prepare for the Amazon Leadership Principle interview questions
 comments: true
-categories: [Interview, Amazon]
 ---
 
 <p class="intro"><span class="dropcap">O</span>ne of the major differences between interviewing at Amazon and other FAANG companies is their approach to the behavioural interview.</p>
@@ -25,18 +24,18 @@ Based on your past experience, only a subset of these leadership principles woul
 * Dive Deep
 * Earn Trust
 
-If you are unsure which LPs you should consider prepping for, feel free to talk to your recruiters to get clarity on expectations. Recruiters are your friends. 
-
-Here is a sample question where you can demonstrate your experience applying customer obsession:
-    Discuss a time when you went above and beyond for a customer?
-
-There are multiple ways to answer the above question; I recommend Following the STAR method while answering any Leadership principle related questions. STAR stands for "Situation - Task - Action - Results" read more on [STAR method][star]. 
+If you are unsure which LPs you should consider prepping for, feel free to talk to your recruiters to clarify expectations. Recruiters are your friends. 
 
 There is a debate around whether we prepare for the Behavioural round. The argument against preparing examples beforehand is that you could sound a little too rehearsed in the interview. I am afraid I have to disagree with this, as it is a scheduled interview where you are expected to come prepared, and sounding rehearsed is better than spending 5 minutes of interview doing "Emm.. you know what.. In my … um…organization. I was working on …. Ummm. a project.. Emm.. you know". You get the gist. 
 
 Also, while we are on this topic, I cannot stress enough that it is entirely okay to ask your interviewer for a couple of minutes to organize your thoughts and then give a well thought out answer. That is always better than the alternative where you are unsure of the following statements and take five pauses in just one answer. 
 
-I recommend preparing 5-6 strong work examples covering one or more LPs each. This will ensure you can answer the interview question while maintaining an excellent flow of information. These work examples need not be fancy or complex. What matters the most is that the example is well received and understood by the interviewer. To achieve this, structure your answers following the STAR method mentioned above.
+I recommend preparing 5-6 strong work examples and stories covering one or more LPs each. This will ensure you can answer the interview question while maintaining an excellent flow of information. These work examples need not be fancy or complex. What matters most is that the example is well received and understood by the interviewer. Plus, well-prepped stories are compelling, and the interviewer can see how you feel and can resonate with them. Also, stories are a great way to illustrate your experience. 
+
+Here is a sample question where you can demonstrate your experience applying customer obsession:
+     Discuss a time when you went above and beyond for a customer?
+
+There are multiple ways to answer the above question; I recommend following the STAR method while answering any Leadership principle related questions. STAR stands for "Situation - Task - Action - Results" read more on [STAR method][star]. 
 
 Other than this, I also recommend doing a few mock interviews that include LP and behavioural questions before the actual interviews. This will help you find weak areas in your answer and give you time to improve upon them. 
 
