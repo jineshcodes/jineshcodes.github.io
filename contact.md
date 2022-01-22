@@ -6,9 +6,10 @@ title: Contact Long Haul
 <div id="contact">
   <h1 class="pageTitle">Contact Me</h1>
   <div class="contactContent">
-    <p class="intro">This is an exampl    Contact page. If you want to make changes then do so in the <code>contact.html</code> file.</p>
-    <p>The form is provided by <a href="https://formspree.io/">Formspree.</a> Follow the directions on their site to set up the form for use.</p>
-    <p>If you have questions about the theme feel free to <a href="mailto:brimaidesigns@gmail.com">email me</a> or create an issue on <a href="https://github.com/brianmaierjr/long-haul">GitHub</a>. Enjoy!</p>
+    <p class="intro">Hi! You could simply use the form on the side to contact me or you could contact me on any of the following platforms: </p>
+    <p> E-mail: <a href="mailto:jinesh.codes@gmail.com">jinesh.codes@gmail.com</a></p>
+    <p> Linkedin: <a href="https://www.linkedin.com/in/jineshcodes/">linkedin.com/in/jineshcodes</a></p>
+    <p> Instagram - Coming Soon</p>
   <!-- </div>
   <form action="https://formspree.io/your@mail.com" method="POST">
     <label for="name">Name</label>
