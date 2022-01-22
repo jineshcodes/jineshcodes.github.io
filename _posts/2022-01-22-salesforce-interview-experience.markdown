@@ -67,7 +67,7 @@ The expectations of this round were same as Onsite 1.
 
 Q1: Find the median of a stream of numbers. The median should be running as new numbers keep coming in. 
 
-I had already seen this problem in the past when I skimmed through Cracking the coding interview. So, I explained how I would handle this with a min and a max heap (my implementation used a Priority queue). I also talked about alternate solutions like using a BST and rank. 
+I had already seen this problem in the past when I skimmed through [Cracking the coding interview](https://amzn.to/3tORt8E). So, I explained how I would handle this with a min and a max heap (my implementation used a Priority queue). I also talked about alternate solutions like using a BST and rank. 
 
 The interviewer asked me to implement a min-heap data structure as a follow-up. I implemented it from scratch, and he was impressed by the pace of implementation.
 
