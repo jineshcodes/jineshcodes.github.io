@@ -16,6 +16,7 @@ Salesforce MTS interview process has one online screening and three on-site roun
 
 #### Online Screening
 *[1 day after the initial call with the recruiter]*
+
 This was an online coding round on hacker rank. There were two coding questions to be implemented in 1 hour. 
 
 Q1: Similar to [Hackerrank - Alien numbers](https://www.hackerrank.com/contests/coderadon/challenges/alien-numbers)
@@ -26,6 +27,7 @@ I completed both the questions with about 10 minutes to spare.
 
 #### Onsite 1: Data Structures and Algorithms
 *[4 days after the coding round ]*
+
 The duration of this round was expected to be 1 hour. The interviewer was expected to judge me mostly on DSA. There will be two DSA questions, and the expectation for me was to write code and then run it on hackerrank to pass all test cases. 
 
 The interviewer first asked me a few basic questions about my experience, and I was already well prepared for this. We quickly moved to DSA questions. 
@@ -42,6 +44,7 @@ This round went well.
 
 #### Onsite 2: Behavioral and Technical
 *[1 day after Onsite 1]*
+
 A director of the organization conducted this round, and the expectation was to talk and get to know me better to make a call if I am a good fit for the role. The estimated time for this round was 1 hour.
 
 We started by introducing each other and sharing a bit about our work experience so far. The round was different from typical interviews and was an excellent opportunity to know more about Salesforce. 
@@ -57,8 +60,11 @@ I was able to do well on the monitoring questions, as I had been a part of the t
 
 Also, as a follow up to most of the answers I shared, I asked about how Salesforce does this scenario, which gave me great insights into what the team does and what I should expect if I join. Anyway, most of these things were discussed again when I talked to the hiring manager. 
 
-#### Onsite 3: DSA
+#### Onsite 3: Data Structures and Algorithms
 *[Same day as the Onsite 2]*
+
+The expectations of this round were same as Onsite 1.
+
 Q1: Find the median of a stream of numbers. The median should be running as new numbers keep coming in. 
 
 I had already seen this problem in the past when I skimmed through Cracking the coding interview. So, I explained how I would handle this with a min and a max heap (my implementation used a Priority queue). I also talked about alternate solutions like using a BST and rank. 
