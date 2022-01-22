@@ -12,6 +12,7 @@ I recently appeared for a Salesforce MTS interview, and this article will docume
 
 Note: when the recruiter reached out to me, I had already cleared onsite for two other companies and was waiting to hear back on their offer. I informed the same, and the recruiter decided to fast track my interview process. 
 
+Salesforce MTS interview process has one online screening and three on-site rounds. Making a total of four rounds. [Because of the global pandemic everything was conducted virtually.]
 
 #### Online Screening
 *[1 day after the initial call with the recruiter]*

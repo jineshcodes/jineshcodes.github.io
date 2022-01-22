@@ -10,6 +10,9 @@ categories: [Interview, Amazon]
 
 I recently appeared for an Amazon SDE 2 interview, and this article will document my experience. The entire process took about three months, from the day the recruiter contacted me to the time I got the offer. 
 
+Amazon SDE-2 interview process has one telephonic screening and four on-site rounds. Making a total of five rounds. Sometimes, there are additional rounds conducted as a part of on-site interview. [Because of the global pandemic everything was conducted virtually.]
+
+
 #### Telephonic Screening
 *[15 days after the first conversation with the recruiter]*
 
