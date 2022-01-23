@@ -76,9 +76,11 @@ Have a structured approach and be open to suggestions. Something like:
 * Make assumptions and decide scope.
 * Come up with a very high-level design 
 * Later, discuss individual components in more detail.
-Make sure you are properly communicating your rationale behind every tech decision. Like why use web sockets over long polling? Or why do we choose No-SQL over SQL DB?
-Make sure you discuss limitations and bottlenecks and a plan to avoid those if required. 
-Ask for frequent feedback explicitly and Ask if anything specific needs to be discussed before moving on to the next component. And many more, stay tuned for a blog around this.
+
+And some tips:
+* Make sure you are properly communicating your rationale behind every tech decision. Like why use web sockets over long polling? Or why do we choose No-SQL over SQL DB?
+* Make sure you discuss limitations and bottlenecks and a plan to avoid those if required. 
+* Ask for frequent feedback explicitly and Ask if anything specific needs to be discussed before moving on to the next component. And many more, stay tuned for a blog around this.
 
 
 #### Onsite 4: Bar-raiser and Low-level design round
