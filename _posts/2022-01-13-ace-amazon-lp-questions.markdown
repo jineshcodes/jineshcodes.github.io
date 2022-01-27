@@ -88,6 +88,9 @@ Describe when you needed to influence a college that had a different opinion abo
 * [Read Dave Anderson's blog about LP - Interviewing at amazon.][dave]
 
 
+Feel free to read other posts related to interview prep and experience on [jinesh.codes/interview](https://jinesh.codes/interview)
+
+
 Note: Please read this site's disclaimer under about me. 
 
 [star]: https://in.indeed.com/career-advice/interviewing/how-to-use-the-star-interview-response-technique

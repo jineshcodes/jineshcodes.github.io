@@ -118,3 +118,5 @@ We still had about 20 mins to spare. So, we ended the call early. The round went
 
 One of the significant differences between interviewing at Amazon and other FAANG companies is their approach to the behavioural interview. Read more on how to [Ace the Amazon Leadership Principle questions](https://jinesh.codes/blog/ace-amazon-lp-questions/). 
 
+Feel free to read other posts related to interview prep and experience on [jinesh.codes/interview](https://jinesh.codes/interview)
+
