@@ -79,4 +79,4 @@ Overall, all the interview rounds went very well.
 
 *[3 days after the interviews]* The recruiter shared me an offer. I did not accept the offer in the end as I was keen to accept an offer from another company.
 
-Feel free to read other by me related to interview prep and experience on [jinesh.codes/interview](jinesh.codes/interview)
+Feel free to read other by me related to interview prep and experience on [jinesh.codes/interview](https://jinesh.codes/interview)

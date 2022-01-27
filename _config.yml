@@ -1,5 +1,5 @@
 title: Jinesh Codes
-description: Jinesh's coding blog. Interview experiences, coding guides and much more.
+description: Jinesh's coding blog. Software Engineering, Interview experiences, coding guides and much more.
 
 url: https://jinesh.codes/
 paginate_path: "blog/page:num/"
@@ -20,14 +20,14 @@ navigation:
     url: /about
   - title: Contact
     url: /contact
-  - title: Interview-relared
+  - title: Interview-related
     url: /interview
 
 social:
   github: jineshcodes
   instagram: jinesh.codes
   email: jinesh.codes@gmail.com
-  linkedin: jineshshah11
+  linkedin: jineshcodes
 
 google_analytics: "G-9H73HF5CNB"
 
