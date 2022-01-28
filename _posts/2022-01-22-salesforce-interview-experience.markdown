@@ -6,6 +6,10 @@ image: Salesforce_Interview.jpg
 description: I recently appeared for a Salesforce MTS interview, and this article will document my experience.
 comments: true
 categories: [Interview, Salesforce]
+sitemap:
+    priority: 0.7
+    changefreq: 'monthly'
+    lastmod: 2022-01-28T12:49:30-05:00
 ---
 
 I recently appeared for a Salesforce MTS interview, and this article will document my experience. The entire process took less than two weeks, from the day the recruiter contacted me to the time I got the offer.

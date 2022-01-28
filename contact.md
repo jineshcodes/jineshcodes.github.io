@@ -1,6 +1,10 @@
 ---
 layout: default
 title: Contact Jinesh Shah
+sitemap:
+    priority: 0.5
+    changefreq: 'monthly'
+    lastmod: 2022-01-28T12:49:30-05:00
 ---
 
 <div id="contact">

@@ -6,6 +6,10 @@ image: Amazon_interview.jpg
 description: I recently appeared for an Amazon SDE 2 interview, and this article will document my experience.
 comments: true
 categories: [Interview, Amazon]
+sitemap:
+    priority: 0.7
+    changefreq: 'monthly'
+    lastmod: 2022-01-28T12:49:30-05:00
 ---
 
 I recently appeared for an Amazon SDE 2 interview, and this article will document my experience. The entire process took about three months, from the day the recruiter contacted me to the time I got the offer. 
@@ -43,7 +47,8 @@ I decided to ask the interviewer if there would be a follow-up question. The rec
 #### Onsite 2: DA and Algo Round
 *[Same day as Onsite 1]*
 
-The expectation for this round was the same as on-site 1. This round also started off DSA:
+The expectation for this round was the same as on-site 1. This round also started off DSA.
+
 **Q1** : Compute the size of the largest island in the given matrix where 0 represents sea and 1 represents land. 
 
 The interviewer confirmed there is a follow up after this. So I quickly implemented the solution using a modified DFS traversal and discussed time/space complexity. While implementing, I also explained the same to the interviewer, so he didn't need me to explain the solution again at the end.
@@ -105,11 +110,11 @@ Make sure you use suitable design patterns to make your design adaptable and eas
 
 This additional round was conducted to test me a bit more on DSA. The expected time for this was 1 hour, and the interviewer was expected to ask 2 DSA questions. By this time, I had already cleared on-sites of multiple different companies, so I was pretty confident.
 
-Q1:A simple DP similar to [Leetcode: Climbing stairs](https://leetcode.com/problems/climbing-stairs/)
+**Q1**:A simple DP similar to [Leetcode: Climbing stairs](https://leetcode.com/problems/climbing-stairs/)
 
 This was basically a Fibonacci type problem, and I solved this in just under 5 mins. 
 
-Q2: Find the order in which a compiler will build given files. If the two files are not dependent on each other, the order does not matter. Before compiling a file, all its dependent modules should be compiled.
+**Q2**: Find the order in which a compiler will build given files. If the two files are not dependent on each other, the order does not matter. Before compiling a file, all its dependent modules should be compiled.
 
 Solved this using topological sort and discussed space and time complexity. 
 We still had about 20 mins to spare. So, we ended the call early. The round went very well.

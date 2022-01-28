@@ -1,6 +1,10 @@
 ---
 layout: default
 title: About Jinesh Shah
+sitemap:
+    priority: 0.7
+    changefreq: 'monthly'
+    lastmod: 2022-01-28T12:49:30-05:00
 ---
 
 <div class="post">
