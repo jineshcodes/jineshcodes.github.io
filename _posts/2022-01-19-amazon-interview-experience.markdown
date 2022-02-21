@@ -16,6 +16,7 @@ I recently appeared for an Amazon SDE 2 interview, and this article will documen
 
 Amazon SDE-2 interview process has one telephonic screening and four on-site rounds. Making a total of five rounds. Sometimes, there are additional rounds conducted as a part of on-site interview. [Because of the global pandemic everything was conducted virtually.]
 
+{% include toc.md %}
 
 #### Telephonic Screening
 *[15 days after the first conversation with the recruiter]*
