@@ -162,7 +162,7 @@ I believe most of my readers are already on Linkedin and have an [all-star Linke
  
 I emphasize so much on having a LinkedIn profile because, during my job search, I was contacted by over 35 recruiters on LinkedIn, which resulted in me starting the conversations with 6 companies. 
  
-While we are on this topic, I would recommend all of you to go and enable open opportunities with the privacy setting as only recruiters on your LinkedIn. You can find the steps (here)[https://www.linkedin.com/help/linkedin/answer/a507508/let-recruiters-know-you-re-open-to-work?lang=en]. **[Make sure the privacy is to set recruiters only and not public.]**
+While we are on this topic, I would recommend all of you to go and enable open opportunities with the privacy setting as only recruiters on your LinkedIn. You can find the steps [here](https://www.linkedin.com/help/linkedin/answer/a507508/let-recruiters-know-you-re-open-to-work?lang=en). **[Make sure the privacy is to set recruiters only and not public.]**
  
 The second reason to have a decent Linkedin profile is to build a network that supports you and may have connections that could refer you to the companies you are interested in. Referrals are the best way to get noticed and start the process. Followed closely by starting a conversation with the recruiters that reach out to you. Direct applications should be your last resort.
 
