@@ -235,7 +235,7 @@ Related resources:
 
 #### Data structure and Algorithm fundamentals
 
-##### My recommendations
+**My recommendations**
  
 My recommendation is to first understand the interview framework, then understand the foundations and concepts and finally deep dive into algorithms. Here is the recommended plan:
  
@@ -266,7 +266,7 @@ When you practice, do not use an IDE. You need to be able to write legible, comp
  
 **Note:** Some companies may have an integrated IDE in the browser window, but most don’t, so it is safer to practise on a standard word document.
  
-##### My recommendations
+**My recommendations**
 
 If you are new to DS and Algorithm coding, follow the [interview bit programming course](https://www.interviewbit.com/courses/programming/)
  
