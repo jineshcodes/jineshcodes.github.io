@@ -11,6 +11,7 @@ permalink: blog/:title/
 markdown: kramdown
 karmdown:
   input: GFM
+  parse_block_html: true
 highlighter: rouge
 plugins: 
   - jekyll-paginate
