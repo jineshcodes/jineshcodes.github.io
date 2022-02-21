@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "The ultimate blueprint to land a Software Engineering job at Big Tech"
+title: "The ultimate guide to land a Software Engineering job at Big Tech"
 date:   2022-01-22
 image: BigTech.jpg
 description: A roadmap that can be followed by any software engineer on their next job search and land a job at big tech. i.e. Google, Microsoft, Meta, Apple and Amazon. 
 comments: true
-categories: [Interview, Amazon, Google]
+categories: [Interview]
 sitemap:
     priority: 0.7
     changefreq: 'monthly'
@@ -151,9 +151,9 @@ Make sure you make a clean and polished resume. Ideally, most of the bullet poin
 **"Accomplished [X] as measured by [Y], by doing [Z]."**
  
 Related resources:
-[Youtube: How to: Work at Google — Resume Tips](https://www.youtube.com/watch?v=zrXZBkYzuZo)
-[Youtube: Create Your Resume for Google: Tips and Advice](https://www.youtube.com/watch?v=BYUy1yvjHxE)
-[Aticle: Formula for a Winning Resume](https://www.linkedin.com/pulse/20140929001534-24454816-my-personal-formula-for-a-better-resume/)
+* [Youtube: How to: Work at Google — Resume Tips](https://www.youtube.com/watch?v=zrXZBkYzuZo)
+* [Youtube: Create Your Resume for Google: Tips and Advice](https://www.youtube.com/watch?v=BYUy1yvjHxE)
+* [Aticle: Formula for a Winning Resume](https://www.linkedin.com/pulse/20140929001534-24454816-my-personal-formula-for-a-better-resume/)
 
 
 ### Network and Linkedin
@@ -225,9 +225,9 @@ The good part is you can get better at them with preparation and practice. The p
  
 
 Related resources:
-[Youtube: Example of a Google Coding Interview](https://www.youtube.com/watch?v=XKu_SEDAykw) (24 min)
-[Youtube: Ask a Google Engineer — What is the Interview Process at Google?](https://www.youtube.com/watch?v=IWIi3C8Md_E) (2 min)
-[How to prepare for a Google Engineering Interview](https://www.youtube.com/watch?v=ko-KkSmp-Lk) (7 min)
+* [Youtube: Example of a Google Coding Interview](https://www.youtube.com/watch?v=XKu_SEDAykw) (24 min)
+* [Youtube: Ask a Google Engineer — What is the Interview Process at Google?](https://www.youtube.com/watch?v=IWIi3C8Md_E) (2 min)
+* [How to prepare for a Google Engineering Interview](https://www.youtube.com/watch?v=ko-KkSmp-Lk) (7 min)
 
 #### Data structure and Algorithm fundamentals
 
