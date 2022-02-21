@@ -18,6 +18,8 @@ Note: when the recruiter reached out to me, I had already cleared onsite for two
 
 Salesforce MTS interview process has one online screening and three on-site rounds. Making a total of four rounds. [Because of the global pandemic everything was conducted virtually.]
 
+{% include toc.md %}
+
 #### Online Screening
 *[1 day after the initial call with the recruiter]*
 
