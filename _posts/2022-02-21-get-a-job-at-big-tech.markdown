@@ -22,7 +22,7 @@ If any of you readers know me personally, I like to keep things organized, and I
  
 My goal is to create a blueprint and a roadmap that can be used by any candidate on their next job search. 
 
-{:toc}
+{% include toc.html %}
 
 ## Target Audience
 
@@ -330,7 +330,7 @@ Try solving the questions in [Grokking the system design interview](https://www.
  
 The [Course: Hired in Tech - System Design](https://www.hiredintech.com/classrooms/system-design/lesson/52) is also a great resource if you need more learning.
  
-#### Mock interview readiness Checkpoint
+#### HLD Mock interview readiness Checkpoint
  
 Try answering all the following questions before moving on to prepping and starting mock interviews:
  
@@ -358,7 +358,7 @@ You should have a working knowledge of a few common and useful design patterns a
 * [Refactoring Guru - Design patterns](https://refactoring.guru/design-patterns)
 * [Book: Head First Object-Oriented Analysis and Design](https://amzn.to/3gtH4au)
  
-#### Mock interview readiness Checkpoint
+#### LLD Mock interview readiness Checkpoint
  
 * What is concurrency? Do you understand cohesion and consistency?
 * Do you know how to use at least the following design patterns:
