@@ -326,6 +326,7 @@ Most companies expect our engineers to be familiar with the basics of how the in
  
  
 #### Recommended learning
+{:.no_toc}
 Try solving the questions in [Grokking the system design interview](https://www.educative.io/courses/grokking-the-system-design-interview) and then go through their provided solutions. This resource is a really great way to learn and internalize how to drive excellent system design discussions. 
  
 The [Course: Hired in Tech - System Design](https://www.hiredintech.com/classrooms/system-design/lesson/52) is also a great resource if you need more learning.
