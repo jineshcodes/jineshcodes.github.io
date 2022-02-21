@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The ultimate guide to land a Software Engineering job at Big Tech"
-date:   2022-01-22
+date:   2022-02-21
 image: BigTech.jpg
 description: A roadmap that can be followed by any software engineer on their next job search and land a job at big tech. i.e. Google, Microsoft, Meta, Apple and Amazon. 
 comments: true
