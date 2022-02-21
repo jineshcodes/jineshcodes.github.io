@@ -174,7 +174,7 @@ The second reason to have a decent Linkedin profile is to build a network that s
 
 ![Dwight: I want an interview](https://media.giphy.com/media/ouvSzoMTx6nXN6PiGu/giphy.gif)
 
-This is usually the first conversation you have with the company. As already mentioned in the above section, you will be your ally and a friend throughout the process. Well, at least until negotiation begins. You should understand that not all recruiters are created equally, and some are better than others. But you should remember to always be cheerful, polite and classy. Make your recruiter part of your team and work with them to get your desired package.
+This is usually the first conversation you have with the company. As already mentioned in the above section, your recruiter will be your ally and a friend throughout the process. Well, at least until negotiation begins. You should understand that not all recruiters are created equally, and some are better than others. But you should remember to always be cheerful, polite and classy. Make your recruiter part of your team and work with them to get your desired package.
  
 A recruiter may ask at this stage what your expected compensation is. I personally would recommend against giving any numbers this early. Instead, focus the discussion on determining mutual fit and levelling. It's better to discuss numbers at the offer stage. If a recruiter keeps pushing, you can tell them a range at the top of your level* and make sure to emphasize that you know the company is competitive and you are sure that a mutual agreement can be reached.
  
