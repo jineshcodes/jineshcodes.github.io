@@ -236,15 +236,15 @@ Related resources:
 My recommendation is to first understand the interview framework, then understand the foundations and concepts and finally deep dive into algorithms. Here is the recommended plan:
  
 * Understand the Coding Interview framework:
- * The first step is to understand the problem solving framework. [Cracking the Code Interview](https://amzn.to/3v02Qv7) (CTCI) is the best resource for this. Read chapters 1 to 7. These chapters thoroughly break down the framework for solving the algorithm interview. Internalize these chapters and apply this methodology when solving any algorithm question in an interview.
+  * The first step is to understand the problem solving framework. [Cracking the Code Interview](https://amzn.to/3v02Qv7) (CTCI) is the best resource for this. Read chapters 1 to 7. These chapters thoroughly break down the framework for solving the algorithm interview. Internalize these chapters and apply this methodology when solving any algorithm question in an interview.
 * Review foundations by reading the following chapters in either CTCI or EPI. Here are some of the topics from the top of my mind: Strings, Arrays, Linked Lists, Stacks, Queues, Heaps, Trees, Hash Tables and Maps, Searching and Sorting, Recursion, Dynamic Programming, Greedy Algorithms, Graphs and graph traversals.
 * Deep dive into algorithms: 
- * If you have to start fresh or haven't reviewed Algorithms in a while :
-  * [Coursera - Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1) - Follow the lectures and code the algorithm, ds in a word doc after every lecture. [I recommend watching at 2x]
-  * [Coursera - Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2) - This is optional as only a couple of companies (like Google and Directi) expect advanced algorithm concepts. 
- * If you had studied DS and Algorithms recently and are only reviewing the concepts, then review the top few articles for each DS and algorithm on geeks for geeks.
-  * [Geeks for geeks - Data Structures](https://www.geeksforgeeks.org/data-structures/)
-  * [Geeks for geeks - Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
+  * If you have to start fresh or haven't reviewed Algorithms in a while :
+    * [Coursera - Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1) - Follow the lectures and code the algorithm, ds in a word doc after every lecture. [I recommend watching at 2x]
+    * [Coursera - Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2) - This is optional as only a couple of companies (like Google and Directi) expect advanced algorithm concepts. 
+  * If you had studied DS and Algorithms recently and are only reviewing the concepts, then review the top few articles for each DS and algorithm on geeks for geeks.
+    * [Geeks for geeks - Data Structures](https://www.geeksforgeeks.org/data-structures/)
+    * [Geeks for geeks - Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
  
 Other resources for DS, Algo and coding fundamentals
  
@@ -357,10 +357,10 @@ You should have a working knowledge of a few common and useful design patterns a
  
 * What is concurrency? Do you understand cohesion and consistency?
 * Do you know how to use at least the following design patterns:
- * Strategy pattern
- * Observer pattern
- * Factory method
- * Singleton pattern
+  * Strategy pattern
+  * Observer pattern
+  * Factory method
+  * Singleton pattern
 * Inheritance vs aggregation
 
  
