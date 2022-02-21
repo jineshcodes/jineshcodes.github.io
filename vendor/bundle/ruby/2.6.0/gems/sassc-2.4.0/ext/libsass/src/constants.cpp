@@ -178,7 +178,7 @@ namespace Sass {
     extern const char selector_lookahead_ops[] = "*&%,()[]";
 
     // byte order marks
-    // (taken from https://en.wikipedia.org/wiki/Byte_order_mark)
+    // (taken from http://en.wikipedia.org/wiki/Byte_order_mark)
     extern const unsigned char utf_8_bom[]      = { 0xEF, 0xBB, 0xBF };
     extern const unsigned char utf_16_bom_be[]  = { 0xFE, 0xFF };
     extern const unsigned char utf_16_bom_le[]  = { 0xFF, 0xFE };

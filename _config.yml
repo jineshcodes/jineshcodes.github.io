@@ -9,8 +9,12 @@ permalink: blog/:title/
 # header: large
 
 markdown: kramdown
+karmdown:
+  input: GFM
 highlighter: rouge
-plugins: [jekyll-paginate]
+plugins: 
+  - jekyll-paginate
+  - jekyll-seo-tag
 paginate: 5
 
 navigation:

@@ -5,7 +5,7 @@ Status
 [![Build status](https://ci.appveyor.com/api/projects/status/8lko9vagbx4w2kxq?svg=true)](https://ci.appveyor.com/project/atgreen/libffi)
 
 libffi-3.4 was released on TBD.  Check the libffi web
-page for updates: <URL:https://sourceware.org/libffi/>.
+page for updates: <URL:http://sourceware.org/libffi/>.
 
 
 What is libffi?
@@ -194,7 +194,7 @@ To install the library and header files, type ``make install``.
 History
 =======
 
-See the git log for details at https://github.com/libffi/libffi.
+See the git log for details at http://github.com/libffi/libffi.
 
     3.4 TBD
         Add support for Intel Control-flow Enforcement Technology (CET).

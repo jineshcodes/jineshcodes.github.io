@@ -36,9 +36,9 @@ namespace Sass {
 
   //////////////////////////////////////////////////////////
   // `hash_combine` comes from boost (functional/hash):
-  // https://www.boost.org/doc/libs/1_35_0/doc/html/hash/combine.html
+  // http://www.boost.org/doc/libs/1_35_0/doc/html/hash/combine.html
   // Boost Software License - Version 1.0
-  // https://www.boost.org/users/license.html
+  // http://www.boost.org/users/license.html
   template <typename T>
   void hash_combine (std::size_t& seed, const T& val)
   {

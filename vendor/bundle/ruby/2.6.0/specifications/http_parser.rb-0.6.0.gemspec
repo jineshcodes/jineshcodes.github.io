@@ -10,16 +10,16 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib".freeze]
   s.authors = ["Marc-Andre Cournoyer".freeze, "Aman Gupta".freeze]
   s.date = "2013-12-11"
-  s.description = "Ruby bindings to https://github.com/ry/http-parser and https://github.com/a2800276/http-parser.java".freeze
+  s.description = "Ruby bindings to http://github.com/ry/http-parser and http://github.com/a2800276/http-parser.java".freeze
   s.email = ["macournoyer@gmail.com".freeze, "aman@tmm1.net".freeze]
   s.extensions = ["ext/ruby_http_parser/extconf.rb".freeze]
   s.files = ["ext/ruby_http_parser/extconf.rb".freeze]
-  s.homepage = "https://github.com/tmm1/http_parser.rb".freeze
+  s.homepage = "http://github.com/tmm1/http_parser.rb".freeze
   s.licenses = ["MIT".freeze]
-  s.rubygems_version = "3.0.3".freeze
+  s.rubygems_version = "3.0.3.1".freeze
   s.summary = "Simple callback-based HTTP request/response parser".freeze
 
-  s.installed_by_version = "3.0.3" if s.respond_to? :installed_by_version
+  s.installed_by_version = "3.0.3.1" if s.respond_to? :installed_by_version
 
   if s.respond_to? :specification_version then
     s.specification_version = 4

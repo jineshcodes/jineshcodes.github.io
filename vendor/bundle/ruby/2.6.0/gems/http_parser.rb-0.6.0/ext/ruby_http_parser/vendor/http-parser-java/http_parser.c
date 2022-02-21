@@ -729,7 +729,7 @@ size_t http_parser_execute (http_parser *parser,
         parser->state = s_res_HTTP;
         break;
 
-      case s_res_https:
+      case s_res_HTTP:
         STRICT_CHECK(ch != '/');
         parser->state = s_res_first_http_major;
         break;
@@ -1077,7 +1077,7 @@ size_t http_parser_execute (http_parser *parser,
         parser->state = s_req_http_HTTP;
         break;
 
-      case s_req_http_https:
+      case s_req_http_HTTP:
         STRICT_CHECK(ch != '/');
         parser->state = s_req_first_http_major;
         break;
@@ -2128,7 +2128,7 @@ http_parser_parse_url(const char *buf, size_t buflen, int is_connect,
   }
 
   /* host must be present if there is a schema */
-  /* parsing https:///toto will fail */
+  /* parsing http:///toto will fail */
   if ((u->field_set & ((1 << UF_SCHEMA) | (1 << UF_HOST))) != 0) {
     if (http_parse_host(buf, u, found_at) != 0) {
       return 1;

@@ -5,7 +5,7 @@
 #ifdef _WIN32
 # ifdef __MINGW32__
 #  ifndef off64_t
-#   define off64_t _off64_t    /* Workaround for https://sourceforge.net/p/mingw/bugs/2024/ */
+#   define off64_t _off64_t    /* Workaround for http://sourceforge.net/p/mingw/bugs/2024/ */
 #  endif
 # endif
 # include <direct.h>
@@ -61,7 +61,7 @@ namespace Sass {
         char wd[wd_len];
         char* pwd = getcwd(wd, wd_len);
         // we should check error for more detailed info (e.g. ENOENT)
-        // https://man7.org/linux/man-pages/man2/getcwd.2.html#ERRORS
+        // http://man7.org/linux/man-pages/man2/getcwd.2.html#ERRORS
         if (pwd == NULL) throw Exception::OperationError("cwd gone missing");
         sass::string cwd = pwd;
       #else

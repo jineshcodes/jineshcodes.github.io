@@ -797,7 +797,7 @@ namespace Sass
 	// EO process
 
 	// read line with either CR, LF or CR LF format
-	// https://stackoverflow.com/a/6089413/1550314
+	// http://stackoverflow.com/a/6089413/1550314
 	static std::istream& safeGetline(std::istream& is, std::string& t)
 	{
 		t.clear();

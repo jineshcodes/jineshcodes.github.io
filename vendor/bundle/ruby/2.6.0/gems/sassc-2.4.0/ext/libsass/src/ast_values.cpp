@@ -650,7 +650,7 @@ namespace Sass {
   Color_HSLA* Color_RGBA::copyAsHSLA() const
   {
 
-    // Algorithm from https://en.wikipedia.org/wiki/wHSL_and_HSV#Conversion_from_RGB_to_HSL_or_HSV
+    // Algorithm from http://en.wikipedia.org/wiki/wHSL_and_HSV#Conversion_from_RGB_to_HSL_or_HSV
     double r = r_ / 255.0;
     double g = g_ / 255.0;
     double b = b_ / 255.0;
@@ -766,7 +766,7 @@ namespace Sass {
     double s = clip(s_ / 100.0, 0.0, 1.0);
     double l = clip(l_ / 100.0, 0.0, 1.0);
 
-    // Algorithm from the CSS3 spec: https://www.w3.org/TR/css3-color/#hsl-color.
+    // Algorithm from the CSS3 spec: http://www.w3.org/TR/css3-color/#hsl-color.
     double m2;
     if (l <= 0.5) m2 = l*(s+1.0);
     else m2 = (l+s)-(l*s);

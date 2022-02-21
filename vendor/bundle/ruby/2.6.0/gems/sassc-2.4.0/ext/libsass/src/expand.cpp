@@ -713,7 +713,7 @@ namespace Sass {
               addComma = true;
             }
             sels << "` instead.\n";
-            sels << "See https://bit.ly/ExtendCompound for details.";
+            sels << "See http://bit.ly/ExtendCompound for details.";
 
             warning(sels.str(), compound->pstate());
 

@@ -18,4 +18,4 @@ module HTTP
   end
 end
 
-https::Parser.default_header_value_type = :mixed
+HTTP::Parser.default_header_value_type = :mixed

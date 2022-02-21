@@ -1,7 +1,7 @@
 #--
 #
 # Author:: Francis Cianfrocca (gmail: blackhedd)
-# Homepage::  https://rubyeventmachine.com
+# Homepage::  http://rubyeventmachine.com
 # Date:: 15 November 2006
 # 
 # See EventMachine and EventMachine::Connection for documentation and
@@ -27,7 +27,7 @@
 module EventMachine
   module Protocols
 
-    # Implements Stomp (https://docs.codehaus.org/display/STOMP/Protocol).
+    # Implements Stomp (http://docs.codehaus.org/display/STOMP/Protocol).
     #
     # == Usage example
     #

@@ -34,11 +34,11 @@
 
    More details on the raw API can be found in:
 
-   https://gcc.gnu.org/ml/java/1999-q3/msg00138.html
+   http://gcc.gnu.org/ml/java/1999-q3/msg00138.html
 
    and
 
-   https://gcc.gnu.org/ml/java/1999-q3/msg00174.html
+   http://gcc.gnu.org/ml/java/1999-q3/msg00174.html
    -------------------------------------------------------------------- */
 
 #ifndef LIBFFI_H
