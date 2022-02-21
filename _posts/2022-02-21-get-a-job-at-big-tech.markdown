@@ -301,7 +301,8 @@ Making this small change in mindset will change how you approach this interview.
 ### High Level Design
 
 #### HLD interview framework
- 
+{:.no_toc}
+
 I personally follow a framework of dividing this interview into 3 phases.
 * Requirements gathering
 * Technical Design and trade-offs
@@ -311,6 +312,7 @@ I personally follow a framework of dividing this interview into 3 phases.
 It is better explained in [this step by step guide](https://www.educative.io/courses/grokking-the-system-design-interview/B8nMkqBWONo).
  
 #### HLD knowledge expectation
+{:.no_toc}
 **Databases**
 The more you know about how relational and non-relational databases work and what trade-offs exist between them, you will be better prepared. However, most companies don’t assume any particular level of expertise.
 
@@ -329,7 +331,8 @@ Try solving the questions in [Grokking the system design interview](https://www.
 The [Course: Hired in Tech - System Design](https://www.hiredintech.com/classrooms/system-design/lesson/52) is also a great resource if you need more learning.
  
 #### HLD Mock interview readiness Checkpoint
- 
+{:.no_toc}
+
 Try answering all the following questions before moving on to prepping and starting mock interviews:
  
 * When would you choose a SQL DB over No SQL?
@@ -353,11 +356,12 @@ http://highscalability.com/blog/category/example
 You should have a working knowledge of a few common and useful design patterns and know how to write software in an object-oriented way, with appropriate use of inheritance and aggregation. You probably won’t be asked to describe the details of how specific design patterns work but expect to have to defend your design choices.
  
 #### Resources:
+{:.no_toc}
 * [Refactoring Guru - Design patterns](https://refactoring.guru/design-patterns)
 * [Book: Head First Object-Oriented Analysis and Design](https://amzn.to/3gtH4au)
  
 #### LLD Mock interview readiness Checkpoint
- 
+{:.no_toc}
 * What is concurrency? Do you understand cohesion and consistency?
 * Do you know how to use at least the following design patterns:
   * Strategy pattern
