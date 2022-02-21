@@ -205,10 +205,8 @@ There are a few more signals that different companies look out for. For example,
  
 Now, you know what the interviewers look for in an interview. Your job during each interview is to emit the signals that demonstrate you are fit for the role and showcase your seniority.
  
- 
-## Interview Preparation
 
-### Data structures, Algorithms and Problem solving
+## Data structures, Algorithms and Problem solving Interview Preparation
  
 Tech interviews are hard. Imagine being assessed to implement optimal solutions while communicating your thoughts within a nerve-wracking 45 minutes interview.
  
@@ -217,7 +215,7 @@ The good part is you can get better at them with preparation and practice. The p
 * Grasping DS and algorithms fundamentals.
 * Learning to stick to a structured approach to communicate well.
  
-#### Problem solving Interview Expectation
+### Problem solving Interview Expectation
  
 **Programming Languages:** Most companies do not require that you know any specific programming language before interviewing for a technical position, but familiarity with a significant language is generally a prerequisite for success. Not only should you be familiar with the syntax of a language, but you should also be familiar with some of the languages’ nuances, such as how memory management works, the most commonly used collections or libraries, etc.
  
@@ -233,7 +231,7 @@ Related resources:
 * [Youtube: Ask a Google Engineer — What is the Interview Process at Google?](https://www.youtube.com/watch?v=IWIi3C8Md_E) (2 min)
 * [How to prepare for a Google Engineering Interview](https://www.youtube.com/watch?v=ko-KkSmp-Lk) (7 min)
 
-#### Data structure and Algorithm fundamentals
+### Data structure and Algorithm fundamentals
 
 **My recommendations**
  
@@ -260,7 +258,7 @@ Other resources for DS, Algo and coding fundamentals
 * Google Style Guides for: [C++](https://google.github.io/styleguide/cppguide.html), [Python](https://google.github.io/styleguide/pyguide.html), [Java](https://google.github.io/styleguide/javaguide.html)
  
  
-#### Coding Practice
+### Coding Practice
 
 When you practice, do not use an IDE. You need to be able to write legible, compilable code without help regarding the layout or spelling of standard library class/method names. I suggest solving algorithmic/DS problems on a word document or on paper to simulate an actual interview. 
  
@@ -282,7 +280,7 @@ Other resources for additional practice:
  
  
  
-## System Design 
+## System Design Interview Preparation
 
 Your system design interviewer will likely be a senior engineer who’s going to ask you an open-ended question like “Implement a flight booking system” or “Create a feed for Instagram”.
  
