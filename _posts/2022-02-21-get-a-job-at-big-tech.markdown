@@ -314,14 +314,17 @@ It is better explained in [this step by step guide](https://www.educative.io/cou
 #### HLD knowledge expectation
 {:.no_toc}
 **Databases**
+
 The more you know about how relational and non-relational databases work and what trade-offs exist between them, you will be better prepared. However, most companies don’t assume any particular level of expertise.
 
 
 **Distributed Computing and scaling**
+
 While most companies have internal tools that help with scaling, it’s essential to understand a few basic distributed computing concepts. Understanding topics such as service-oriented architectures, map-reduce, distributed caching, load balancing, etc., could help you develop a better design for some of the more complicated distributed architecture questions you might encounter.
  
 
 **Internet and Networking Topics**
+
 Most companies expect our engineers to be familiar with the basics of how the internet works. You might want to brush up on how browsers work at a high level, from DNS lookups and TCP/IP to socket connections. They aren’t looking for network engineer qualifications, but a solid understanding of the fundamentals of how the web works is a requirement.
  
  
