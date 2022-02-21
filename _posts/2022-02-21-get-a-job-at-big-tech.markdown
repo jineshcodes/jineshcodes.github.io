@@ -12,7 +12,7 @@ sitemap:
     lastmod: 2022-02-21T12:49:30-05:00
 ---
 
-[Author’s Note: At nearly 5,000 words, you probably don’t want to try reading this on a mobile device. Bookmark it and come back later.]
+*[Author’s Note: At nearly 5,000 words, you probably don’t want to try reading this on a mobile device. Bookmark it and come back later.]*
  
 I am a software engineer who has worked at Microsoft and Google. A while back, I went on a 120 - day long job search journey, aced more than 30 interviews, and landed multiple offers. 
  
@@ -31,7 +31,9 @@ My goal is to create a blueprint and a roadmap that can be used by any candidate
 **Note:** If you are interested in a similar post for junior developers, please drop it in the comments or DM me. If there are a lot of interested folks, I will consider making one for junior developers too.
 
 ## Motivation
- 
+
+![High Salary meme](/assets/img/finalHighSalary.png)
+
 Most people I talk to hate the job search and interview process. The top reason I have heard is “the process is flawed, and I want to get it over with as soon as possible.” 
  
 I agree that the interview process is flawed, but we can use the flawed system to our advantage through systematic planning and consistent efforts. 
@@ -51,7 +53,7 @@ You will need a slightly higher time commitment to follow this blueprint, but it
 
 The interview process will look something like this:
  
-**Recruiter Call → Phone Screen → Onsite Interview (4-6 sessions) → Offer stage (Congratulations!)**
+**Recruiter Call → Phone Screen → Onsite Interview (4-6 sessions) → Offer stage**
  
 **Recruiter call**
 
@@ -235,8 +237,7 @@ Related resources:
  
 My recommendation is to first understand the interview framework, then understand the foundations and concepts and finally deep dive into algorithms. Here is the recommended plan:
  
-* Understand the Coding Interview framework:
-  * The first step is to understand the problem solving framework. [Cracking the Code Interview](https://amzn.to/3v02Qv7) (CTCI) is the best resource for this. Read chapters 1 to 7. These chapters thoroughly break down the framework for solving the algorithm interview. Internalize these chapters and apply this methodology when solving any algorithm question in an interview.
+* The first step is to understand the problem solving framework. [Cracking the Code Interview](https://amzn.to/3v02Qv7) (CTCI) is the best resource for this. Read chapters 1 to 7. These chapters thoroughly break down the framework for solving the algorithm interview. Internalize these chapters and apply this methodology when solving any algorithm question in an interview.
 * Review foundations by reading the following chapters in either CTCI or EPI. Here are some of the topics from the top of my mind: Strings, Arrays, Linked Lists, Stacks, Queues, Heaps, Trees, Hash Tables and Maps, Searching and Sorting, Recursion, Dynamic Programming, Greedy Algorithms, Graphs and graph traversals.
 * Deep dive into algorithms: 
   * If you have to start fresh or haven't reviewed Algorithms in a while :
@@ -279,15 +280,17 @@ Other resources for additional practice:
  
  
  
-## System Design
- 
+## System Design 
+
 Your system design interviewer will likely be a senior engineer who’s going to ask you an open-ended question like “Implement a flight booking system” or “Create a feed for Instagram”.
  
 Your goal will be to drive the conversation for the next 60 minutes, solidify the problem requirements, and design a system that solves it. This is a chance to demonstrate your skills, knowledge, and experience in technical leadership.
  
 ### System Design Interview Mindset
- 
-After tons of conversations with people preparing for this interview, I have realized that most people come in with the mindset that this is an exercise building hypothetical systems. I can see this when candidates say things like they "would not do in real life." and may end up ignoring some of the more significant technical problems they see, thinking this is, after all, just an exercise. But, this emits a wrong signal to the interviewer, who might believe you didn’t see that technical problem. 
+
+![Don't do system design like this meme](https://i.kym-cdn.com/photos/images/original/000/074/270/1285771688392.jpg)
+
+After tons of conversations with people preparing for this interview, I have realized that most people come in with the mindset that this is an exercise building hypothetical systems. I can see this when candidates say things like they "would not do in real life." and may end up ignoring some of the more significant technical problems they see, thinking this is, after all, just an exercise. But, this emits a wrong signal to the interviewer, who might believe you didn’t see that technical problem. (Just as shown in the meme above.)
  
 You need to change this mindset; instead of building hypothetical systems, let’s build a real system. Imagine driving an actual work meeting at the start of an interview. The meeting aims to solve the given problem by brainstorming the design and roadmap. 
  
@@ -366,8 +369,10 @@ You should have a working knowledge of a few common and useful design patterns a
  
 ### Mock Interviews
 
+![Pokemon mock fight](https://media.giphy.com/media/HZpCCbcWc0a3u/giphy.gif)
+
 Mock interviews are the best way to get into the rhythm of interviewing. I recommend doing a few mock coding and system design interviews every week you prepare. This will make sure you know how you are tracking and the areas of improvement. You can use the following sites for Mock interviews:
-* [pramp.com](https://www.pramp.com/) - free mock interviews
+* [pramp.com](https://www.pramp.com/) - free mock interviews for Problem solving and HLD system design
 * [interviewing.io](https://interviewing.io/) - paid 
  
  
