@@ -468,6 +468,8 @@ Other great(but long) resource: [Salary Negotiation](https://www.kalzumeus.com/2
 ## Aggregated list of recommended resources
 * [Cracking the Code Interview](https://amzn.to/3v02Qv7) (CTCI)
 * [Coursera - Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1)
+* [interview bit programming course](https://www.interviewbit.com/courses/programming/)
+* [the blind list: 75 must do questions on leetcode](https://leetcode.com/list/xi4ci4ig/)
 * [Grokking the system design interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 * [pramp.com](https://www.pramp.com/) - free mock interviews
 * [Ace the Amazon Leadership Principle interview questions](https://jinesh.codes/blog/ace-amazon-lp-questions/)
