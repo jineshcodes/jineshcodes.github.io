@@ -5,8 +5,7 @@
 ## Table of Contents
 {:.no_toc}
 
-*
- TOC
+* TOC
 {:toc}
 
 <div id="toc-skipped"></div>
