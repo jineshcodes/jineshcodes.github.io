@@ -22,9 +22,6 @@ If any of you readers know me personally, I like to keep things organized, and I
  
 My goal is to create a blueprint and a roadmap that can be used by any candidate on their next job search. 
 
-## Table of Contents
-{:.no_toc}
-
 {:toc}
 
 ## Target Audience
