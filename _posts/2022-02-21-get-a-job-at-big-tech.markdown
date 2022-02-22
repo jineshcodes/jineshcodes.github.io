@@ -34,7 +34,7 @@ My goal is to create a blueprint and a roadmap that can be used by any candidate
 
 ## Motivation
 
-![High Salary meme](/assets/img/finalHighSalary.png)
+![High Salary to job change meme](/assets/img/finalHighSalary.png)
 
 Most people I talk to hate the job search and interview process. The top reason I have heard is “the process is flawed, and I want to get it over with as soon as possible.” 
  
@@ -88,7 +88,7 @@ You've made it this far, woohoo! At this stage, all you need to do is to determi
  
 I have taken the liberty to create a 15-week schedule assuming that you will consistently be preparing and interviewing part-time. You can shorten or elongate this schedule accounting for your situation. 
  
-![Weekly Schedule](/assets/img/WeeklySchedule.png)
+![Weekly Schedule for SWE interview preparation](/assets/img/WeeklySchedule.png)
 
 **Week 1 :** Ramp up and process understanding
 
@@ -258,11 +258,11 @@ Other resources for DS, Algo and coding fundamentals
 * Google Style Guides for: [C++](https://google.github.io/styleguide/cppguide.html), [Python](https://google.github.io/styleguide/pyguide.html), [Java](https://google.github.io/styleguide/javaguide.html)
  
  
-### Coding Practice
+### Coding practice
 
 When you practice, do not use an IDE. You need to be able to write legible, compilable code without help regarding the layout or spelling of standard library class/method names. I suggest solving algorithmic/DS problems on a word document or on paper to simulate an actual interview. 
  
-**Note:** Some companies may have an integrated IDE in the browser window, but most don’t, so it is safer to practise on a standard word document.
+**Note:** Some companies may have an integrated IDE in the browser window, but most don’t, so it is safer to practice on a standard word document.
  
 **My recommendations**
 
@@ -351,7 +351,7 @@ Try answering all the following questions before moving on to prepping and start
 * What happens behind the scenes when you open a link in your browser? Do you know what these terms mean: TCP/IP, DNS lookup?
  
 Other resources:
-http://highscalability.com/blog/category/example
+[high scalability - examples](http://highscalability.com/blog/category/example)
  
 ### Low-Level Design
  
@@ -409,7 +409,7 @@ Discuss a time when you went above and beyond for a customer?
  
 There are multiple ways to answer the above question; I recommend following the STAR method while answering any Leadership principle related questions. STAR stands for “Situation - Task - Action - Results” read more on [STAR method](https://in.indeed.com/career-advice/interviewing/how-to-use-the-star-interview-response-technique).
  
-Once these examples are well-prepped, try answering the behavioural questions on the list under https://jinesh.codes/blog/ace-amazon-lp-questions/.
+Once these examples are well-prepped, try answering the behavioural questions [listed here](https://jinesh.codes/blog/ace-amazon-lp-questions/#here-is-a-list-of-questions-i-had-prepared-for) for practice.
  
 Tip: this is the list of all questions I had prepped for, and I absolutely rocked every behavioural and experience interview.
  
@@ -472,7 +472,7 @@ Other great(but long) resource: [Salary Negotiation](https://www.kalzumeus.com/2
 * [the blind list: 75 must do questions on leetcode](https://leetcode.com/list/xi4ci4ig/)
 * [Grokking the system design interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 * [pramp.com](https://www.pramp.com/) - free mock interviews
-* [Ace the Amazon Leadership Principle interview questions](https://jinesh.codes/blog/ace-amazon-lp-questions/)
+* [Experience interview questions](https://jinesh.codes/blog/ace-amazon-lp-questions/#here-is-a-list-of-questions-i-had-prepared-for)
 * [STAR Method](https://in.indeed.com/career-advice/interviewing/how-to-use-the-star-interview-response-technique)
 * [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
 * [How Not to Bomb Your Offer Negotiation](https://haseebq.com/how-not-to-bomb-your-offer-negotiation/)
