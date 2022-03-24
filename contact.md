@@ -13,7 +13,7 @@ sitemap:
     <p class="intro">Hi! You could simply use the form on the side to contact me or you could contact me on any of the following platforms: </p>
     <p> E-mail: <a href="mailto:jinesh.codes@gmail.com">jinesh.codes@gmail.com</a></p>
     <p> Linkedin: <a href="https://www.linkedin.com/in/jineshcodes/">linkedin.com/in/jineshcodes</a></p>
-    <p> Instagram - Coming Soon</p>
+    <p> Instagram: <a href="https://www.instagram.com/jinesh.codes/">instagram.com/jinesh.codes/</a></p>
   <!-- </div>
   <form action="https://formspree.io/your@mail.com" method="POST">
     <label for="name">Name</label>
